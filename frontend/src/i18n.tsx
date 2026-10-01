@@ -1,0 +1,87 @@
+import { createContext, useContext, useEffect, useState } from 'react'
+import type { ReactNode } from 'react'
+
+export type Language = 'zh' | 'en'
+const key = 'sweepwise.language'
+export function getLanguage(): Language {
+  try { const saved = localStorage.getItem(key); if (saved === 'en' || saved === 'zh') return saved } catch { /* Storage may be blocked. */ }
+  return navigator.language.toLowerCase().startsWith('zh') ? 'zh' : 'en'
+}
+let currentLanguage = getLanguage()
+export function requestLanguage() { return currentLanguage }
+
+const en: Record<string, string> = {
+  '知识库管理': 'Manage knowledge',
+  '智扫通': 'SweepWise', '✧ 智扫通': '✧ SweepWise', '智扫通 · 扫地机器人智能客服': 'SweepWise · Robot vacuum support',
+  '让每一次清洁，更简单': 'MAKE EVERY CLEAN EASIER', '你的清洁问题，': 'Your cleaning questions,', '交给智能助手。': 'answered with AI.',
+  '从产品选购到日常维护，连接专业知识，': 'From choosing a robot to everyday care,', '找到适合你的答案。': 'find answers grounded in product knowledge.',
+  '记住每一段对话': 'Keep every conversation', '随时回来，接着聊。': 'Pick up where you left off.',
+  '创建你的账号': 'Create your account', '欢迎回来': 'Welcome back', '开启你的专属智能对话空间': 'Your personal space for AI assistance',
+  '登录后继续你的对话与探索': 'Sign in to continue your conversations', '用户名': 'Username', '密码': 'Password',
+  '3–32 位文字、数字或下划线': '3–32 letters, numbers, underscores or hyphens', '至少 8 位密码': 'At least 8 characters',
+  '正在处理…': 'Please wait…', '注册并开始对话': 'Create account', '登录': 'Sign in', '已有账号？': 'Already have an account?',
+  '还没有账号？': 'New to SweepWise?', '前往登录': 'Sign in', '立即注册': 'Sign up',
+  '参考资料': 'Sources', '个片段': 'passages', '页面索引': 'Page index',
+  '挑选合适的机器人': 'Find the right robot', '小户型应该怎样选择扫地机器人？': 'How should I choose a robot vacuum for a small apartment?',
+  '了解维护与保养': 'Care and maintenance', '扫地机器人的滤网和滚刷应该多久清理一次？': 'How often should I clean the filter and roller brush?',
+  '排查使用中的问题': 'Troubleshoot a problem', '扫地机器人经常找不到充电座，应该怎样排查？': 'My robot often cannot find its charging dock. What should I check?',
+  '检索知识库': 'Searching the knowledge base', '查询天气': 'Checking the weather', '确认所在城市': 'Identifying your location',
+  '确认用户信息': 'Checking account details', '获取月份': 'Checking the current month', '查询使用记录': 'Reading usage records', '准备使用报告': 'Preparing the report',
+  '当前浏览器无法获取位置，请使用 HTTPS 或 localhost，或直接输入城市和国家。': 'Location is unavailable. Use HTTPS or localhost, or enter your city and country.',
+  '未获得位置授权，你仍可直接输入城市和国家查询天气。': 'Location access was denied. You can enter your city and country instead.',
+  '获取位置超时，请重试或直接输入城市和国家。': 'Location request timed out. Try again or enter your city and country.',
+  '暂时无法获取设备位置，请重试或直接输入城市和国家。': 'Your location is unavailable. Try again or enter your city and country.',
+  '确定删除这段对话及全部历史消息吗？': 'Delete this conversation and all its messages?', '正在准备回答…': 'Preparing your answer…', '工具': 'Tool',
+  '关闭侧栏': 'Close sidebar', '开启新对话': 'New conversation', '新对话': 'New conversation', '历史对话': 'Conversations',
+  '你的对话会保存在这里': 'Your conversations will appear here', '删除对话：': 'Delete conversation: ',
+  '专业知识，随时查阅': 'Product knowledge, on demand', '选购 · 使用 · 维护 · 故障排查': 'Choosing · Using · Maintaining · Troubleshooting',
+  '个人对话空间': 'Personal workspace', '退出登录': 'Sign out', '打开历史对话': 'Open conversations', '对话': 'Conversation',
+  '智能对话': 'AI chat', '你的清洁好帮手': 'Your cleaning assistant', 'AI 智能助手': 'AI assistant',
+  '正在加载历史对话…': 'Loading conversation…', '今天，有什么可以帮你？': 'How can I help you today?',
+  '关于扫地机器人的疑问，从这里开始。': 'Your robot vacuum questions start here.',
+  '从专业知识库中寻找答案，陪你解决实际问题': 'Practical answers from the product knowledge base', '你': 'You',
+  '正在思考': 'Thinking', '未生成回答': 'No answer generated', '生成失败，可以重新发送问题': 'Generation failed. Please send your question again.',
+  '已停止生成': 'Generation stopped', '上次生成尚未完成，请稍后重新打开对话': 'The previous response is still pending. Reopen the conversation shortly.',
+  '正在获取位置…': 'Getting your location…', '更新当前位置': 'Update location', '使用当前位置': 'Use my location',
+  '位置已共享，5 分钟内用于所在地与天气查询': 'Location shared for local queries for 5 minutes', '可选，用于查询所在地与天气': 'Optional: for local weather and advice',
+  '取消定位': 'Cancel location request', '取消共享': 'Stop sharing', '关闭提示': 'Dismiss message',
+  '发送消息，聊聊你的清洁问题…': 'Ask a question about your robot vacuum…', '消息内容': 'Message', '知识库问答': 'Knowledge base',
+  'Shift + Enter 换行': 'Shift + Enter for a new line', '停止生成': 'Stop generating', '发送消息': 'Send message',
+  'AI 生成的内容仅供参考，请结合产品说明书核实。': 'AI answers are for reference. Check your product manual.', '正在打开智扫通…': 'Opening SweepWise…',
+  '请求失败，请检查输入后重试': 'Request failed. Check your input and try again.', '浏览器不支持流式响应': 'Your browser does not support streaming responses.',
+  '回答生成失败': 'Answer generation failed.', '连接已中断，请稍后重试': 'Connection interrupted. Please try again.',
+  '请先登录': 'Please sign in.', '用户名已存在': 'This username is already taken.', '用户名或密码错误': 'Incorrect username or password.',
+  '请求来源不允许': 'This request origin is not allowed.', '对话不存在': 'Conversation not found.',
+  '对话正在生成，请稍后删除': 'A response is being generated. Try deleting the conversation later.',
+  '此对话正在生成回答，请等待完成': 'A response is already being generated for this conversation.',
+  '请在项目 .env 中配置 DASHSCOPE_API_KEY 后重启后端': 'Configure DASHSCOPE_API_KEY in the project .env file and restart the backend.',
+  '回答生成失败，请检查模型配置或稍后重试。': 'Generation failed. Check the model configuration or try again later.',
+  '生成超时，请重试。': 'Generation timed out. Please try again.', '模型未返回文本，请重试。': 'The model returned no text. Please try again.',
+  '工具执行完成': 'Tool completed', '查询失败，正在处理': 'Handling a tool error', '正在确认查询条件': 'Clarifying the request', '正在调用工具': 'Calling tool',
+  'BGE 重排序暂不可用，本次使用 BM25 与向量混合检索结果。': 'BGE reranking is unavailable. Using BM25 and vector retrieval results.',
+  'Failed to fetch': 'Unable to connect to the server. Check your connection and try again.',
+}
+export function translate(text: string, language: Language = currentLanguage): string {
+  if (language === 'en') return en[text] || text
+  return Object.entries(en).find(([, value]) => value === text)?.[0] || text
+}
+const Context = createContext({language: currentLanguage, setLanguage: (_language: Language) => {}, t: (text: string) => text})
+export function LanguageProvider({children}: {children: ReactNode}) {
+  const [language, update] = useState<Language>(getLanguage)
+  currentLanguage = language
+  function setLanguage(value: Language) {
+    currentLanguage = value
+    try { localStorage.setItem(key, value) } catch { /* Preference still works for this session. */ }
+    update(value)
+  }
+  useEffect(() => {
+    document.documentElement.lang = language === 'zh' ? 'zh-CN' : 'en'
+    document.title = language === 'zh' ? '智扫通 · AI 清洁助手' : 'SweepWise · AI Cleaning Assistant'
+  }, [language])
+  return <Context.Provider value={{language, setLanguage, t: (text) => translate(text, language)}}>{children}</Context.Provider>
+}
+export function useLanguage() { return useContext(Context) }
+export function LanguageSelect({disabled = false}: {disabled?: boolean}) {
+  const {language, setLanguage} = useLanguage()
+  return <select className="language-select" aria-label="Language / 语言" value={language} disabled={disabled} onChange={event => setLanguage(event.target.value as Language)}><option value="zh">中文</option><option value="en">English</option></select>
+}

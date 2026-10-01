@@ -1,0 +1,21 @@
+collection_name: agent_zh
+persist_directory: chroma_db/zh
+k: 3
+data_path: data/zh
+md5_hex_store: storage/knowledge_zh.md5
+allow_knowledge_file_type: ["txt", "pdf"]
+
+chunk_size: 200
+chunk_overlap: 20
+separators: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]
+
+# Each language has its own dense index and BM25 corpus. No cross-language fallback.
+languages:
+  zh: {}
+  en:
+    collection_name: agent_en
+    persist_directory: chroma_db/en
+    data_path: data/en
+    md5_hex_store: storage/knowledge_en.md5
+    chunk_size: 700
+    chunk_overlap: 70

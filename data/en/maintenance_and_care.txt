@@ -1,0 +1,224 @@
+# 200 Maintenance Tips for Robot Vacuums and Vacuum-and-Mop Robots (Purely from a Maintenance Perspective, Categorized into General Basics, Vacuum-Only Specifics, Mopping-Specific for Vacuum-and-Mop Models, Consumables Focus, Environmental Adaptation, Long-Term Storage, and Fault Prevention—Covering Daily Maintenance for All Models)
+## General Basic Maintenance (50 Tips)
+1. After each daily use, wipe the robot’s exterior housing with a dry, soft cloth to remove dust and water marks, preventing stains from hardening.
+2. After every cleaning cycle, promptly remove hair and threads trapped in the bumper strip gaps to prevent jamming that affects rebound performance.
+3. Check the drive wheels and caster wheel on the robot’s underside daily; use tweezers to remove entangled hair or debris to ensure smooth wheel rotation.
+4. During regular use, avoid collisions with sharp or hard objects (e.g., table corners, metal frames) to prevent damage to the housing or sensors.
+5. Clean the charging contacts daily by wiping the metal contacts on both the robot and the charging dock with a dry cloth to prevent oxidation-induced poor contact.
+6. Never touch the rotating main brush or side brush while the robot is operating to avoid pinching injuries and component damage.
+7. Check the cliff and edge detection sensors on the robot’s underside daily; gently wipe their surfaces with a dry cloth to ensure no dust or moisture obstructs them.
+8. Always disconnect power before cleaning the robot. Never rinse the body directly with water (even waterproof models should only be wiped, not submerged).
+9. Clear debris from the dustbin latch area daily to ensure proper installation and prevent dust leakage or error alerts.
+10. After each use, return the robot to its charging dock to maintain full charge and avoid storage in a depleted state.
+11. Inspect all screws on the robot’s body weekly; tighten any loose ones immediately to prevent parts from falling off.
+12. Use a soft-bristle brush weekly to clean the robot’s ventilation openings to prevent dust buildup that could cause motor overheating protection.
+13. Press the bumper strip multiple times weekly to verify normal rebound; if stiff, disassemble and clean internal debris promptly.
+14. Wipe the APP connection indicator light and buttons weekly to prevent dust accumulation that may interfere with operation or visibility.
+15. Apply 1–2 drops of specialized lubricant monthly to the caster and drive wheel axles to prevent rust and abnormal noise (do not over-apply, as excess attracts dust).
+16. Inspect the battery compartment monthly for signs of swelling or leakage, and ensure wiring connections are secure and undamaged.
+17. Wipe the obstacle-avoidance cameras/sensors monthly with a dry cloth to prevent dust or fingerprints from impairing recognition accuracy.
+18. Perform a thorough dust removal on the entire robot body monthly, including hard-to-reach areas like the underside, top, and charging port.
+19. If the robot emits slight unusual noises, stop operation immediately for inspection—never force continued use, which may worsen the fault.
+20. Always disconnect power before replacing any components, and confirm the replacement part matches your model exactly to avoid incompatible installations.
+21. Avoid prolonged operation in high-temperature (>40°C) or low-temperature (<0°C) environments to prevent battery and motor damage.
+22. Keep the robot away from corrosive liquids (e.g., alcohol, disinfectants, dish soap) to prevent premature aging of the housing and components.
+23. If the robot body gets oily residue after use, gently wipe it with a diluted neutral detergent, then dry thoroughly with a clean cloth.
+24. Check daily that the charging dock is placed on a level surface with no surrounding obstructions to ensure smooth auto-return charging.
+25. Clean the infrared sensor area on the charging dock weekly with a dry cloth to prevent dust interference with return-charging signal reception.
+26. Avoid kinking or compressing the charging dock’s power cord; inspect the plug and cable weekly for damage to prevent short circuits.
+27. Do not operate or store the robot in direct sunlight for extended periods to prevent housing discoloration and abnormal sensor light sensitivity.
+28. Inspect the main brush and side brush latches monthly for cracks or looseness to ensure secure attachment.
+29. Handle the robot gently when moving it—never drag or drop it—to prevent internal component displacement.
+30. Check the dustbin air outlet weekly to ensure it’s unobstructed, maintaining optimal suction power.
+31. If large debris (e.g., stones, bottle caps) is encountered during operation, remove it manually immediately to prevent mechanical jamming.
+32. Use a soft-bristle brush monthly to clear debris from the suction inlet to prevent blockages that reduce vacuuming efficiency.
+33. Inspect the robot daily for visible scratches or deformations; if deformation results from impact, contact after-sales service for correction promptly.
+34. Avoid applying strongly adhesive stickers to the robot body, as residue left upon removal may corrode the housing.
+35. Wipe the dust collection port weekly (for self-emptying models) to ensure airtight sealing and prevent dust leakage.
+36. Avoid operating the robot on floors with significant standing water to prevent moisture ingress and internal short circuits.
+37. Inspect the mopping module interface monthly (for vacuum-and-mop models) to ensure it’s free of dust and debris for smooth connection.
+38. After daily use, switch the robot to 'Standby' mode to minimize power consumption.
+39. Check the charging dock’s power adapter weekly for abnormal heat or noise, and avoid prolonged overload operation.
+40. If the robot accidentally contacts pet feces, clean immediately with a wet wipe, then sanitize with a neutral detergent to prevent bacterial growth.
+41. Check the side brush rotation daily; if it jams, stop the robot immediately and clean to prevent motor burnout.
+42. Avoid operating near high-drop areas (e.g., stair edges)—even with cliff sensors, additional precautions are recommended.
+43. Perform a monthly 'no-load test': run the robot without attachments for 1 minute to check for unusual noises or mechanical resistance.
+44. Wipe silicone components (e.g., seals, bumper strips) weekly with a dry cloth to prevent aging and cracking.
+45. Clear debris daily from the roller brush chamber entrance to prevent foreign objects from entering and tangling the main brush.
+46. Never use stiff brushes or steel wool to clean robot components, as they can scratch surfaces and damage sensors.
+47. Check the robot’s APP connectivity weekly to ensure stable network connection and timely receipt of consumable and fault alerts.
+48. Ensure adequate ventilation around the robot during charging, and keep flammable or explosive materials away.
+49. Check the robot's anti-tangle comb teeth (if equipped) monthly to ensure there is no deformation or breakage, and that they properly comb hair.
+50. Follow the principle of 'gentle use and prompt cleaning' in daily operation to reduce accessory wear and extend the overall lifespan of the unit.
+
+## Sweeping Function-Specific Maintenance (30 items)
+1. Immediately after each cleaning cycle, remove hair and threads from the main brush; cut tangled debris with scissors—never forcibly pull.
+2. Clean dust and debris from the side brush daily to ensure it effectively sweeps corner dust into the suction inlet during rotation.
+3. Disassemble the main roller brush compartment weekly and use a soft-bristle brush to clean all dust and hair inside, leaving no residue in hard-to-reach areas.
+4. If the main brush slips during use, inspect the rubber strip on the roller for wear and clean or replace it promptly.
+5. Clean the robot’s air duct weekly by brushing from the dustbin exhaust toward the suction inlet with a soft-bristle brush to maintain unobstructed airflow.
+6. For self-emptying models, check the dust collection channel daily for blockages caused by hair or debris to ensure smooth dust collection.
+7. After emptying the dustbin each time, wipe its interior with a dry cloth to prevent dust clumping; do not soak in water (except for waterproof dustbins).
+8. The dustbin filter must be installed together with the dustbin and must not be missing, to prevent dust from entering the motor and causing damage.
+9. If suction power decreases during sweeping, first check whether the dustbin, filter, or air duct is clogged; clean each component sequentially and retry.
+10. Weekly, inspect the suction inlet roller brush (on models without a main brush) to ensure it is free of tangles and wear, and rotates smoothly.
+11. For self-emptying models, check daily that the dust collection bag is properly installed and sealed tightly to prevent dust leakage.
+12. Immediately after cleaning on long-pile carpets, remove carpet fibers from the main brush to prevent tangling and hardening.
+13. Monthly, check the operating condition of the main brush motor; it should run without abnormal overheating or unusual noises—if any occur, stop the machine immediately.
+14. When cleaning the main brush, take care to protect the bearings at both ends of the roller brush; avoid water or dust ingress that could cause jamming.
+15. Replace the side brush immediately when bristle length wears down to less than 1 cm to avoid compromising edge-cleaning performance.
+16. Weekly, use a soft-bristle brush to clean the robot’s dust sensor to prevent incorrect environmental dust readings that may cause abnormal suction behavior.
+17. For self-emptying models, clean the exhaust vent of the base station weekly to ensure no blockage and maintain normal dust collection suction.
+18. After cleaning on rough surfaces such as concrete or tile floors, promptly remove sand and mud from the bottom of the robot to prevent wheel assembly wear.
+19. Empty all debris from the dustbin after each cleaning cycle to avoid prolonged storage, which can lead to bacterial growth and odors.
+20. Monthly, inspect the robot’s suction power adjustment module to ensure smooth switching between suction levels without jamming.
+21. When removing hair, if the main brush features an anti-tangle design, use the comb teeth to quickly strip away hair and improve cleaning efficiency.
+22. If the robot supports 'carpet boost,' check after use that the boost module has reset properly, with no jamming or unusual noises.
+23. Weekly, inspect the side brush retention clip to ensure the side brush is securely installed and does not loosen or shift during rotation.
+24. If the dustbin develops an odor, place an activated charcoal packet inside to absorb smells, or lightly wipe with a neutral deodorizer, then air-dry before reuse.
+25. In households with pets, immediately clean the main brush and dustbin after each use to prevent pet hair from clumping.
+26. Monthly, disassemble the robot’s suction inlet assembly and remove any small debris inside to ensure unobstructed airflow.
+27. For self-emptying models, turn off the power before replacing the dust collection bag to prevent dust leakage during the process.
+28. If the main roller brush is detachable, remove and clean it once a week (wipe with a dry cloth for non-waterproof models), then reinstall after drying completely.
+29. After cleaning up large debris, immediately inspect the suction inlet and roller brush compartment for residue to prevent jamming.
+30. Monthly, inspect the motor cooling fan for dust buildup and ensure it remains unobstructed to allow proper motor heat dissipation.
+
+## Mopping Function-Specific Maintenance for Vacuum-and-Mop Robots (40 items)
+1. Immediately after each mopping session, remove the mop pad, rinse thoroughly with clean water, wring it out, and air-dry in a well-ventilated area to prevent mold.
+2. Daily, clean the mop pad holder by using a soft-bristle brush to remove entangled hair and threads, ensuring the holder remains free of debris.
+3. Before each use of the water tank, check for impurities or limescale inside; fill only with clean water to avoid mineral deposits from tap water.
+4. After mopping, drain any remaining water from the tank and wipe the interior and water outlet with a dry cloth to prevent limescale buildup and clogging.
+5. Weekly, soak the water tank in a citric acid solution (diluted 1:50) for 10 minutes to descale, then rinse thoroughly with clean water and air-dry.
+6. For models with automatic mop washing, empty the dirty-water tank after each use and rinse both the tank and its filter with clean water until no residue remains.
+7. For models with automatic mop washing, clean the scrubbing brush in the base station daily by removing hair and debris to ensure effective mop cleaning.
+8. Monthly, apply one drop of specialized lubricating oil to the pivot shaft of the mop pad holder to prevent rust and jamming, ensuring smooth rotation.
+9. Before installing the mop pad each time, inspect it for cleanliness and absence of hardening to avoid secondary contamination during mopping.
+10. Weekly, wipe the water tank’s sealing ring with a dry cloth and inspect for signs of aging, cracking, or deformation to ensure a watertight seal.
+11. For automatic mop-washing models, clean the water-level sensor in the base station weekly with a dry cloth to prevent dirt from blocking the sensor and causing incorrect readings.
+12. If water output becomes abnormal during mopping, immediately clean the water tank outlet and tubing, gently unclogging with a toothpick to prevent blockage.
+13. For electric mop models, inspect the mop motor after each use for abnormal heating or unusual noises, and promptly remove any debris around the motor.
+14. If the mop pad develops an odor, soak it in warm water with a neutral detergent for 15 minutes, scrub clean, then scald briefly with boiling water before air-drying for reuse.
+15. Before installing the water tank each time, inspect the robot’s water tank interface for dust or debris to ensure a secure, leak-free connection.
+16. For models with automatic mop lifting, inspect the lift mechanism daily to ensure no jamming or misalignment, and verify normal raising and lowering of the mop.
+17. Disposable mop pads must be discarded immediately after use and must not be reused to avoid lint shedding and clogging the mopping module.
+18. Wipe the bottom of the mopping module weekly to remove water stains and dirt, preventing bacterial growth and odor.
+19. For models with automatic mop washing, clean the water pump tubing in the cleaning station monthly with a descaling agent to prevent limescale buildup that could block water flow.
+20. When adding cleaning solution to the water tank, strictly dilute it according to the recommended ratio; never add concentrated solution directly, as it may corrode the tank and tubing.
+21. After mopping, wipe the mopping module interface on the bottom of the robot with a dry cloth to ensure no water marks or dust residue remain.
+22. Check the mop pad’s adhesive or snap-fit design weekly to ensure it is secure, with no looseness or detachment.
+23. For models with automatic mop washing, clear the drainage outlet in the cleaning station after each use to ensure no debris blocks it and drainage remains unobstructed.
+24. If the mop pad sheds lint during use, replace it immediately to prevent fibers from being left on the floor and compromising cleaning performance.
+25. Check the water tank’s water valve monthly to ensure smooth operation without sticking or leakage, guaranteeing consistent water flow.
+26. Avoid exposing plastic components of the mopping module to high temperatures or corrosive liquids to prevent aging and deformation.
+27. For models with automatic mop washing, inspect the dirty-water tank filter weekly for blockages or damage to maintain filtration efficiency and prevent backflow of dirty water.
+28. Before each mopping session, gently tap the mop pad to remove loose dust before installation, preventing dust from soiling the floor.
+29. If the water tank is unused for an extended period, wipe the sealing ring with a dry cloth and apply a thin layer of silicone oil to prevent aging.
+30. For motorized mop models, check the mop’s rotation speed monthly to ensure it hasn’t slowed or become stuck; clean or service promptly if issues arise.
+31. If floor scratches appear during mopping, immediately inspect the mop pad for trapped sand or hard debris, remove it, and then resume use.
+32. For models with automatic mop washing, inspect the clean-water inlet of the cleaning station daily to ensure it is free of dust or debris and allows smooth water filling.
+33. Clean stains and limescale from the mop holder weekly using a soft-bristle brush to prevent hardening and difficulty in future cleaning.
+34. After mopping, remove the mop holder and air-dry it in a well-ventilated area to prevent bacterial growth from prolonged contact with the robot body.
+35. Inspect the wiring harness of the mopping module monthly for damage or looseness to prevent short circuits or poor electrical contact.
+36. If foreign objects accidentally enter the water tank, immediately drain the clean water, remove the debris with tweezers, and rinse thoroughly with clean water.
+37. For models with automatic mop washing, wipe the exterior of the cleaning station with a dry cloth after use to remove water marks and stains, keeping it clean.
+38. Disinfect reusable mop pads with high-temperature steam after every 3–5 uses to eliminate bacteria and dust mites—especially recommended for households with pets or infants.
+39. For models with automatic mop lifting, check the lift motor monthly; if abnormal heating occurs during operation, contact after-sales service for inspection immediately.
+40. After disassembling and cleaning any component of the mopping module, ensure it is completely dry before reinstallation to prevent water damage to motors or circuits.
+
+## Consumables-Specific Maintenance and Replacement (30 Items)
+1. HEPA filter: Gently brush surface dust weekly with a soft-bristle brush; rinse with clean water (do not rub) every 1–2 months, air-dry in a cool place, and replace every 3–6 months.
+2. Main roller brush: Replace every 3–6 months in typical households; every 1–3 months in pet households or homes with long-pile carpets. Replace immediately if worn, deformed, or cracked.
+3. Side brush: Replace when the bristles are worn down to <1 cm, deformed or broken. Replace every 2–3 months under normal conditions, or every 1 month in dusty environments.
+4. Dustbin pre-filter (primary filter): Clean surface dust daily; rinse with water monthly, dry thoroughly before reuse, and replace every 6 months.
+5. Reusable mop pad: Replace every 3–6 months under normal use; every 1–2 months in pet or heavily soiled environments. Replace immediately if hardened, shedding lint, or damaged.
+6. Water tank sealing ring: Replace every 6–12 months. Replace immediately if aged, cracked, or leaking—do not wait for scheduled replacement.
+7. Dust collection bag (for self-emptying models): Replace every 1–2 months in typical households; every half to one month in dusty or pet households. Replace promptly when filled to 80% capacity.
+8. Cleaning brush (for automatic mop-washing models): Remove hair weekly; rinse with water monthly; replace every 3–6 months. Replace immediately if worn or deformed.
+9. Caster wheels / drive wheels: Replace when tread is severely worn, rotation becomes stiff, or unusual noise occurs. Typically replaced every 1–2 years; on rough surfaces, replace every 6–12 months.
+10. Roller brush rubber strip (main brush accessory): Replace when worn, cracked, or detached. Usually replaced together with the main brush.
+11. Dirty-water tank filter (for vacuum-and-mop robots): Rinse with clean water weekly, dry before reuse, and replace every 6 months. Replace immediately if damaged.
+12. Battery: Replace every 2–3 years under normal use. Replace immediately with an original battery if runtime drops below 50% of original capacity, fails to charge, or shows swelling.
+13. Disposable mop pad: For single-use only—replace after each use. Do not reuse.
+14. Anti-tangle comb teeth: Replace if deformed or broken. Inspect every 6–12 months; in pet households, inspect every 3 months.
+15. Charging contact copper plates: If oxidized or rusted, gently clean with a rust remover. Replace the contact component if restoration is not possible.
+16. Mopping module cleaning brush (for vacuum-and-mop robots): Replace together with the mop pad. Replace immediately if worn or shedding bristles.
+17. Air duct filter: Clean every 3–6 months; replace every 1–2 years. Replace earlier if severely clogged.
+18. Side brush retainer clip: Replace immediately with an original matching clip if broken or too loose to secure the side brush.
+19. Mop holder: Replace with an original part if the clip is broken, deformed, or the pivot is jammed beyond repair.
+20. Self-emptying base filter (for self-emptying models): Clean monthly; replace every 6 months. Replace earlier if damaged or severely clogged.
+21. Suction inlet roller brush (for models without a main brush): Follow the same replacement schedule as the main brush—every 3–6 months; every 1–3 months in pet households.
+22. Water tank outlet valve: Replace with the original outlet valve accessory if leakage or jamming during opening/closing occurs and cannot be repaired.
+23. Bumper strip: Replace with the original bumper strip if cracking, detachment, or abnormal rebound occurs; do not substitute with ordinary adhesive strips.
+24. Cleaning solution: Use within 3 months after opening; store sealed in a cool, dry place away from direct sunlight.
+25. Lubricating oil: Use robot-specific lubricating oil only; do not substitute with engine oil, grease, etc., to prevent dust adhesion and component damage.
+26. Mop pad hook-and-loop fastener: Replace the fastener accessory or directly replace the mop holder when adhesion weakens and can no longer secure the mop pad.
+27. Robot foot pads: Replace foot pads if severe wear causes body instability, ensuring smooth operation.
+28. Power cord (charging dock): Immediately replace with the original power cord if damage, aging, or overheating occurs; do not use non-original cords as substitutes.
+29. Mop-washing water pump filter (vacuum-and-mop robot): Clean weekly and replace every 6 months; replace earlier if clogging prevents water flow.
+30. Always prioritize **original accessories** for all consumables; non-original parts may have incorrect dimensions or specifications, easily causing equipment malfunctions and reduced cleaning performance.
+
+## Environment-Specific Maintenance (20 Items)
+1. Hardwood floor environment: Use low water output or dry-mopping mode when mopping to avoid water pooling; dust the robot’s wheels weekly to prevent sand and grit from scratching the floor.
+2. Tile/marble floor environment: Wipe moisture from the robot’s underside immediately after mopping; descale the mop holder monthly to prevent limescale buildup.
+3. Long-pile carpet environment: Immediately remove carpet fibers from the main brush and side brush after cleaning; disable mopping to prevent the mop from wetting the carpet and causing mold.
+4. Short-pile carpet environment: After using carpet boost mode, check that the main brush has reset properly; clean dust along carpet edges weekly to prevent missed areas.
+5. Concrete/old tile floor environment: Immediately clean mud and sand from the robot’s underside and wheels after cleaning to prevent component wear; reduce mopping frequency to avoid hardened dirt clumps.
+6. Pet households: Thoroughly clean the main brush, dustbin, and mop pad after each cleaning cycle; deodorize and disinfect the robot weekly; shorten consumable replacement intervals by 50%.
+7. Households with infants/young children: Use only water for mopping—avoid adding cleaning solution; disinfect the mop pad with high heat after each use; wipe down the robot body daily.
+8. High-dust/windy environments: Empty the dustbin and clean the filter daily; replace the side brush weekly; disable mopping to prevent dust and water from forming hardened clumps.
+9. Humid southern climates (e.g., 'Nan Tian' season): Reduce mopping frequency; use dry-mopping mode; air-dry the robot body and consumables daily; perform dehumidification treatment on the robot weekly.
+10. Dry/northern dusty environments: Increase suction power; empty the dustbin daily; deep-clean the air duct and filter monthly; set mopping to medium water output.
+11. Greasy kitchen environments: Immediately clean the mop pad and water tank after mopping; wash the mop pad with neutral detergent; descale the water tank weekly to prevent oil blockages.
+12. Bathroom environments: Vacuum only—do not mop—to avoid contact with standing water; wipe the robot’s underside after cleaning to ensure no moisture remains.
+13. Enclosed balcony environments: Open windows for ventilation immediately after mopping; clean mud and sand from the robot’s wheels to prevent mixing with dust and water.
+14. Multi-level/floored homes: Create separate maps for each floor; before switching floors, clean the robot’s underside and sensors and recalibrate vacuuming/mopping parameters.
+15. Environments with mirrored/glass furniture: Clean the robot’s obstacle-avoidance sensors before cleaning to prevent reflection-induced mapping errors; wipe sensors weekly.
+16. Low-clearance furniture environments: Manually assist in cleaning hard-to-reach corners after the robot enters; clean the underside sensors weekly to prevent dust obstruction.
+17. Environments with thresholds/steps: After crossing, check the wheels and mopping module for jamming; manually clean dust buildup at thresholds.
+18. Hot summer environments: Avoid operating the robot in direct sunlight; ensure good ventilation in the charging area; check battery temperature weekly to prevent overheating.
+19. Cold winter environments: Let the robot acclimate at room temperature for 30 minutes before use to prevent battery capacity loss; ensure ambient temperature is ≥5°C during charging.
+20. Post-renovation cleaning environments: Perform manual initial cleaning first—remove cement debris, sand, and sharp objects—before using the robot to avoid jamming or scratching components.
+
+## Long-Term Storage Maintenance (20 Items)
+1. Before storage, fully charge the robot to 80%–90% to prevent battery damage from deep discharge.
+2. Before storage, thoroughly clean all components—including the robot body, dustbin, filter, main brush, side brush, and mop pad—to ensure no dust or residue remains.
+3. For vacuum-and-mop robots, drain all water from the clean-water tank and dirty-water tank before storage; wipe dry with a cloth and air-dry completely before storing.
+4. Remove all detachable accessories (e.g., mop pad, mop holder, dust bag, filter), clean and air-dry them, then store separately to prevent bacterial growth from contact with the main unit.
+5. Before storage, thoroughly wipe the battery compartment, charging contacts, and sensors to ensure they are free of dust and moisture.
+6. Store the robot in a **cool, dry, and well-ventilated** environment; avoid high/low temperatures, humidity, and direct sunlight.
+7. Maintain storage temperature between 5°C and 35°C, with relative humidity ≤60%; keep away from flammable, explosive, or corrosive materials.
+8. Disconnect the robot from the charging dock during storage; do not leave it plugged in long-term to prevent overcharging and battery damage.
+9. Store accessories in sealed bags with desiccants to prevent moisture, mold, and aging.
+10. Before storing, apply a thin layer of silicone oil to the water tank sealing ring and place it in a sealed bag to prevent aging and cracking.
+11. For long-term storage (>1 month), recharge the robot every 1–2 months to 80%–90% to prevent battery depletion.
+12. Store the robot lying flat; do not invert or place on its side to prevent internal component displacement or battery leakage.
+13. Avoid placing heavy objects on the robot during storage to prevent deformation of the body shell and accessories.
+14. Store the charging dock separately from the robot. Neatly coil the power cord of the charging dock and protect the plug to prevent dust ingress.
+15. Before reusing the robot after long-term storage, first inspect the battery for swelling or leakage, and check whether the body components are loose or aged.
+16. Before reusing the robot, thoroughly clean and dry all accessories, and replace any expired or aged consumables.
+17. Before reusing the robot, power it on and let it run idle for 1–2 minutes to check for unusual noises or stuttering, and test whether all functions operate normally.
+18. Before reusing the robot, connect it to the charging dock and charge for 30 minutes to activate the battery and calibrate the battery level display.
+19. Before reusing the robot, delete the old map and allow the robot to create a new one to recalibrate its sweeping, mopping, obstacle avoidance, and auto-recharge functions.
+20. If storing the robot in a dark environment such as a garage or storage room, disinfect it before storage and place anti-insect and anti-rodent accessories inside.
+
+## Preventive Maintenance for Malfunctions (20 Items)
+1. Regularly update the robot’s firmware and the companion app to ensure proper system functionality and reduce software-related operational issues.
+2. Avoid letting the robot operate continuously for extended periods. For large homes, perform cleaning in batches to prevent motor and battery overheating that could lead to malfunctions.
+3. Before each use, check the floor for sharp objects, wires, cords, or similar items to avoid jamming mechanical parts or entangling accessories.
+4. Strictly follow the instructions specific to your robot model. Do not exceed weight limits or operate the robot in areas larger than its designated cleaning capacity.
+5. Follow the principle of 'shallow charging and shallow discharging' during charging—avoid overcharging or deep discharging the battery to extend its lifespan and reduce battery-related failures.
+6. Clean the filter and dustbin promptly when clogged to prevent reduced suction power, which can cause the motor to work under excessive load and potentially burn out.
+7. Immediately power off the robot if the mop pad or water tank leaks. Clean it thoroughly before reuse to prevent water from entering internal components and causing electrical short circuits.
+8. If the robot emits slight abnormal noises or experiences stuttering, immediately power it off and inspect it. Never force continued operation, as this may exacerbate the issue.
+9. Do not attempt to disassemble internal components (such as the motor, mainboard, or battery) yourself. Contact official after-sales service for repairs in case of malfunction.
+10. Perform a comprehensive functional test on the robot once a month, including sweeping, mopping, obstacle avoidance, auto-recharge, and spot cleaning, to promptly identify potential issues.
+11. Replace consumables promptly upon expiration to prevent aged or worn parts from causing abnormal operation or damaging other components.
+12. When connecting the robot to Wi-Fi, use only the 2.4 GHz network to avoid connection instability and functional anomalies caused by 5 GHz networks.
+13. Regularly clear the robot’s cache via the app to prevent excessive cache buildup, which can cause app lag or failed command transmission.
+14. Avoid charging the robot in humid environments to prevent oxidation or short circuits at the charging contacts, which could lead to charging failures.
+15. If the robot accidentally gets wet, immediately disconnect the power source, place it in a well-ventilated area to dry completely, do not power it on, and contact after-sales service for inspection.
+16. Inspect the robot’s internal wiring and cables weekly for damage or looseness to prevent short circuits or poor connections that could cause malfunctions.
+17. For models with automatic mop-washing functionality, never run the cleaning station dry without water, as this may damage the water pump or heating module (if equipped).
+18. For self-emptying robot vacuums, do not continue using the robot after the dust bag is full, as this may allow dust to enter the motor, resulting in reduced suction and motor failure.
+19. Ensure the area around the charging dock is unobstructed during auto-recharge to prevent the robot from repeatedly attempting to dock, which can cause unnecessary wear on the motor and battery.
+20. Maintain a robot maintenance log to record consumable replacement dates and details of any malfunctions and their resolutions. Regularly review this log to summarize maintenance experience and proactively prevent recurring issues.

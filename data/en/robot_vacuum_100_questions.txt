@@ -1,0 +1,235 @@
+# 100 Questions About Robot Vacuums
+## I. Basics and Technology
+### Navigation and Path Planning
+1. **How do robot vacuums achieve autonomous navigation?**
+- Through LiDAR (LDS), visual sensors (VSLAM), or gyroscope + accelerometer for environmental perception and localization.
+2. **Which is better: LDS laser navigation or VSLAM visual navigation?**
+- LDS offers higher accuracy and is unaffected by lighting conditions; VSLAM has lower cost and can recognize more object details.
+3. **What is dToF navigation technology?**
+- Direct Time-of-Flight (dToF) provides more precise distance measurement than traditional LDS, with a detection range up to 10 meters.
+4. **Why do some robots get "lost"?**
+- Changes in ambient lighting, interference from reflective surfaces, or sensor malfunctions can cause loss of positioning.
+5. **How can I improve the mapping accuracy of my robot vacuum?**
+- Choose models equipped with LiDAR + AI algorithms, maintain stable lighting conditions, and clean sensors regularly.
+### Cleaning System
+6. **What does the suction power unit Pa mean for robot vacuums?**
+- Pascal (Pa) indicates vacuum suction strength. 2000Pa can pick up mung beans; 2500Pa can effectively clean carpets.
+7. **What’s the difference between roller brushes and rubber brushes?**
+- Roller brushes offer stronger cleaning but are prone to hair tangling; rubber brushes resist tangling but are slightly less effective at cleaning dust from crevices.
+8. **What is the function of side brushes?**
+- They sweep dust along walls and corners toward the main suction inlet, improving edge cleaning performance.
+9. **What types of dustbin filtration systems are available?**
+- Mainly HEPA filters (capture particles as small as 0.3μm), sponge filters, and composite filters.
+10. **Why do some models use dual main brushes?**
+- Dual counter-rotating main brushes better pick up debris, especially on hard floors.
+## II. Product Features
+### Sweeping Functions
+11. **What types of flooring can robot vacuums clean?**
+- Tiles, hardwood floors, and short-pile carpets; long-pile carpets require checking the robot's obstacle-crossing capability.
+12. **What is the maximum obstacle-crossing height?**
+- Most models handle 1.5–2 cm; high-end models can manage up to 2.5 cm.
+13. **How do they detect and avoid carpets?**
+- Using ultrasonic sensors or AI vision recognition; some models automatically boost suction when on carpets.
+14. **How do you use zone cleaning?**
+- Select a specific area on the APP map, and the robot will prioritize cleaning that zone.
+15. **What are the different ways to implement virtual walls?**
+- Physical magnetic strip virtual walls and APP-based electronic virtual walls.
+### Mopping Functions
+16. **How effective is mopping on vacuum-and-mop robots?**
+- Suitable for daily maintenance; stubborn stains still require manual cleaning and are not as effectively handled as by dedicated floor washers.
+17. **What’s the difference between electronically controlled water tanks and gravity-fed water tanks?**
+- Electronically controlled tanks precisely regulate water output; gravity-fed tanks rely on natural seepage.
+18. **Is vibrating mop technology effective?**
+- High-frequency vibration (e.g., 3000 times per minute) enhances stain removal, especially for dried-on dirt.
+19. **Is automatic mop washing practical?**
+- Very practical—it eliminates manual mop washing, though the base station requires periodic cleaning.
+20. **Why do some models lift the roller brush during mopping?**
+- To prevent mixing dry and wet debris, keeping the floor dry during mopping.
+## III. Smart Interaction
+### APP Control
+21. **What advanced features do APPs typically offer?**
+- Multi-floor map management, cleaning history, consumable reminders, voice control, etc.
+22. **How do you set up scheduled cleaning?**
+- In the APP, select time, area, and cleaning mode, then save as an automation task.
+23. **How many types of no-go zones are there?**
+- Three main types: sweeping no-go zones, mopping no-go zones, and virtual walls.
+24. **What is the purpose of cleaning records?**
+- View historical cleaning area and duration to evaluate cleaning efficiency and consumable lifespan.
+25. **How do you switch between multi-floor maps?**
+- Save different maps in the APP; the robot automatically identifies the current floor using sensors.
+### Voice Interaction
+26. **Which voice assistants are supported?**
+- Common ones include XiaoAI Assistant, Tmall Genie, Google Assistant, etc.
+27. **What operations can be performed via voice control?**
+- Basic functions like start/pause cleaning, return to dock, and switch modes.
+28. **How do you add custom voice commands?**
+- Some models allow setting custom triggers for specific actions in the APP.
+## IV. Maintenance and Care
+### Daily Maintenance
+29. **How often should the dustbin be emptied?**
+- Ideally after every use; at minimum, every 2–3 cleaning cycles.
+30. **Does the HEPA filter need replacement?**
+- Recommended every 3–6 months; washing reduces filtration efficiency.
+31. **Do side brushes need replacement?**
+- Inspect every 6–12 months; replace if significantly deformed.
+32. **How do you clean sensors?**
+- Wipe the LiDAR window, cliff sensors, etc., with a dry, soft cloth.
+33. **How do you deal with hair tangled around the roller brush?**
+- Use the included cleaning tool or carefully cut away with scissors.
+### Troubleshooting
+34. **What should I do if the robot gets stuck?**
+- First power off, check wheels and brushes for obstructions, clear them, then restart.
+35. **Why might the robot fail to return to the charging dock?**
+- The dock may have been moved, obstacles block its path, or the infrared sensor is dirty.
+36. **How to solve the issue of a missed cleaning area?**
+- Check if no-go zones have been set; try remapping or manually remote-controlling the robot to clean the missed spot.
+37. **How to handle abnormal alarm alerts?**
+- Check the error code; common issues will have troubleshooting guidance in the app.
+38. **What to do if firmware update fails?**
+- Restart the robot, ensure stable network connection, and retry; or contact customer support.
+## V. Buying Guide
+### Key Selection Factors
+39. **Which specifications should I prioritize when purchasing?**
+- Navigation type, suction power, battery capacity, and dustbin/water tank capacity.
+40. **Which robot vacuum is suitable for small apartments?**
+- Basic laser navigation models are sufficient, such as Mi Robot Vacuum-Mop 1C or Roborock T4.
+41. **What should I consider for large homes?**
+- Choose models with large batteries (>5200mAh), automatic dust collection, or self-cleaning mop pads.
+42. **How to choose for households with pets?**
+- High suction power (≥2500Pa), rubber roller brush design, and large dustbin capacity.
+43. **What to note for homes with many carpets?**
+- Confirm carpet recognition and automatic suction boost features; suction power ≥2500Pa.
+### Brand Comparison
+44. **Main differences between iRobot and domestic Chinese brands?**
+- iRobot has mature algorithms but limited features; domestic brands offer richer functionality and better value for money.
+45. **Which is better: Ecovacs or Roborock?**
+- Ecovacs excels in innovation; Roborock offers better stability and superior algorithms.
+46. **What are the advantages of Xiaomi ecosystem products?**
+- High cost-performance ratio, seamless integration with Mi Home ecosystem, and low maintenance costs.
+47. **Are premium models worth buying?**
+- Yes, for users seeking high automation and minimal maintenance.
+48. **Is it advisable to buy a used robot vacuum?**
+- Not recommended—battery degradation and sensor wear significantly affect performance.
+## VI. Technology Development
+### Current Technologies
+49. **What AI chips are used by mainstream brands?**
+- Dedicated AI chips such as Horizon Robotics Journey series, Rockchip, and MediaTek.
+50. **How does 3D structured light obstacle avoidance work?**
+- It projects an infrared dot pattern to measure object distance and shape, enabling precise obstacle avoidance.
+51. **Why can some robots detect pet feces?**
+- AI image recognition trained on extensive feces samples, combined with close-range sensors.
+52. **How does automatic dust collection work?**
+- The base station generates strong suction to transfer debris from the dustbin into a sealed disposable bag.
+### Future Trends
+53. **How will robot vacuums evolve in the future?**
+- Smarter object recognition, robotic arm-assisted cleaning, and fully automated maintenance.
+54. **Will robot vacuums replace traditional vacuum cleaners?**
+- Unlikely in the short term, but they will take on more daily cleaning tasks.
+55. **Are solar-powered robot vacuums feasible?**
+- Currently too inefficient; limited to concept products only.
+56. **Can robots achieve automatic water changing?**
+- Prototype models exist, requiring connection to household plumbing systems.
+## VII. Usage Tips
+### Daily Use
+57. **How to set up the most efficient cleaning schedule?**
+- Schedule daily cleaning, and use deep-cleaning mode on weekends.
+58. **How to use safely when away from home?**
+- Enable remote monitoring, remove items that could cause entanglement, and ensure stable network connectivity.
+59. **How to prevent the robot from falling down stairs?**
+- Keep cliff sensors clean, or set virtual wall boundaries.
+60. **What to note when using across multiple floors?**
+- Keep the robot powered on during relocation to avoid map loss.
+### Cleaning Performance
+61. **How to improve corner cleaning effectiveness?**
+- Choose models with dynamic side brushes or square-shaped bodies.
+62. **How to avoid water streaks during mopping?**
+- Adjust appropriate water flow and use dedicated mopping modes.
+63. **How to handle stubborn stains?**
+- Pre-clean manually, then run the robot’s deep mopping mode.
+64. **How to enhance carpet cleaning performance?**
+- Select models with dedicated carpet boost mode.
+## VIII. Accessories and Consumables
+### Consumable Replacement
+65. **How often should filters be replaced?**
+- HEPA filters every 3–6 months; sponge filters are washable but still require periodic replacement.
+66. **What is the typical lifespan of side brushes?**
+- Approximately 6–12 months, depending on usage frequency.
+67. **Does the main brush need replacement?**
+- Rubber brushes last 1–2 years; bristle brushes should be inspected for wear every 6–12 months.
+68. **What types of mop pads are available?**
+- Disposable, washable, antimicrobial materials, and more.
+69. **Can the dustbin be washed with water?**
+- Yes, but it must be completely dry before reuse.
+### Accessory Selection
+70. **Is it necessary to buy a spare battery?**
+- Generally not needed; original batteries typically last 2–3 years.
+71. **Can third-party consumables be used?**
+- They can be used but may affect performance; original manufacturer consumables are recommended.
+72. **How to choose cleaning tools?**
+- Select compatible small brushes for easy component cleaning.
+## IX. Safety and Privacy
+### Data Security
+73. **What data does a robot vacuum collect?**
+- Home maps, cleaning logs, device information, etc.
+74. **How to protect home map privacy?**
+- Choose models that store maps locally and disable cloud sync.
+75. **Is there a risk of the robot being hacked?**
+- Theoretically yes, but mainstream brands implement data encryption measures.
+### Operational Safety
+76. **Will prolonged charging damage the battery?**
+- No, modern lithium-ion batteries include overcharge protection.
+77. **Can I touch the robot while it’s operating?**
+- Yes, but sudden movement may cause it to lose its positioning.
+78. **What should families with children pay attention to?**
+- Enable the child lock function to prevent small parts from being accidentally swallowed.
+79. **Will pets attack the robot?**
+- In rare cases, they might; it's recommended to let your pet get accustomed to the robot first.
+## X. Special Scenarios
+### Different Environments
+80. **What are the recommendations for using in a villa?**
+- Choose a model with a large battery and auto-empty dustbin, and set up multi-floor maps.
+81. **What should renters pay attention to when using one?**
+- Choose a lightweight and portable model, and ensure electrical safety in rental properties.
+82. **Are they suitable for commercial spaces?**
+- Suitable for small areas; larger spaces require professional commercial-grade models.
+### Seasonal Considerations
+83. **What should be noted when using in winter?**
+- Avoid charging in low-temperature environments (≤0°C), as this may damage the battery.
+84. **How should maintenance be handled during the rainy season?**
+- Regularly dehumidify to prevent motor moisture damage, and frequently replace mop pads to avoid mold.
+85. **Does high summer temperature affect usage?**
+- Avoid placing the charging dock in direct sunlight, as high temperatures may impact battery lifespan.
+## XI. Comparison with Other Products
+86. **How to choose between a robot vacuum and a traditional vacuum cleaner?**
+- Robots handle daily maintenance, while vacuum cleaners are better for deep cleaning.
+87. **What are the pros and cons compared to a floor washer?**
+- Floor washers offer stronger cleaning power but require manual operation; robots have higher automation.
+88. **Can a steam mop replace robot mopping?**
+- No—it offers better sterilization but is more cumbersome to operate.
+89. **What advantages does it have over traditional housekeeping?**
+- Lower daily maintenance costs and keeps your home consistently clean.
+## XII. Cost Analysis
+90. **Do robot vacuums really save money?**
+- Long-term, they eliminate housekeeping fees, but consumables and repair costs must be considered.
+91. **What’s the approximate annual cost of consumables?**
+- Approximately ¥200–500, depending on usage frequency and model.
+92. **Is electricity consumption high?**
+- Very low—each cleaning cycle consumes about 0.1–0.3 kWh.
+93. **Are repair costs high?**
+- Mainboard repairs after warranty expiration can be expensive; purchasing an extended warranty is recommended.
+## XIII. History and Development
+94. **When was the first robot vacuum invented?**
+- Electrolux introduced the Trilobite prototype in 1996; iRobot mass-produced the Roomba in 2002.
+95. **When did robot vacuums become popular in the Chinese market?**
+- Rapid adoption began after 2015, driven by Xiaomi ecosystem products.
+96. **What stages has the technology gone through?**
+- Random bump navigation → gyroscope navigation → laser navigation → AI visual navigation.
+## XIV. Fun Facts
+97. **Why is it called a 'robot vacuum' instead of a 'vacuum robot'?**
+- Early models primarily swept rather than sucked, and the term 'robot' was more appealing to consumers.
+98. **What is the most expensive robot vacuum?**
+- iRobot’s commercial model Avva 30, priced at approximately $20,000.
+99. **Can robots 'commit suicide'?**
+- In rare cases of sensor failure, they might fall from heights, but this is extremely uncommon.
+100. **Will future robots be able to empty trash automatically?**
+- Auto-empty models already exist; future versions may integrate with home waste disposal systems.

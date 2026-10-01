@@ -1,0 +1,401 @@
+200 Troubleshooting and Repair Guidelines for Robot Vacuums / Vacuum-and-Mop Robots
+
+1. Symptom: Robot does not respond when powered on, and the indicator light is off. Diagnosis: Check whether the power adapter is securely plugged in, whether the power cord is damaged, and whether the battery is properly installed. Repair: Replace the power cord if damaged, reseat the battery, ensure the charging dock is receiving power, and if there is still no response, contact after-sales service to inspect the mainboard.
+
+2. Symptom: Robot shuts down immediately after powering on. Diagnosis: Check whether the battery is fully depleted, whether the robot body is overheated, and whether the battery is swollen. Repair: Fully charge the battery and retry; move the robot to a well-ventilated area to cool down; if the battery is swollen, replace it immediately with an original battery.
+
+3. Symptom: Robot cannot connect to Wi-Fi. Diagnosis: Confirm that both the smartphone and robot are connected to the same 2.4 GHz network, verify that the Wi-Fi password is correct, and check whether the robot’s Wi-Fi module is obstructed. Repair: Restart both the router and the robot, re-enter the Wi-Fi password, and wipe away any dust from the Wi-Fi module area.
+
+4. Symptom: APP cannot control the robot. Diagnosis: Check whether the network connection is stable, whether the APP is updated to the latest version, and whether the robot is in standby mode. Repair: Switch networks, update the APP, restart the robot, and rebind the device.
+
+5. Symptom: Robot frequently collides with furniture during cleaning. Diagnosis: Check whether the obstacle-avoidance camera/sensors are covered with dust or water stains, and whether the bumper strip is stuck. Repair: Wipe the obstacle-avoidance components with a dry cloth, gently press the bumper strip to confirm it rebounds normally, and clear surrounding obstacles.
+
+6. Symptom: Robot does not move or moves very slowly. Diagnosis: Check whether the drive wheels or caster wheels are tangled with hair or debris, whether the wheel assembly is jammed, and whether the floor surface is too slippery. Repair: Remove debris entangled in the wheels, apply a small amount of dedicated lubricant, and test on a dry, non-slippery surface.
+
+7. Symptom: Suction power has significantly decreased. Diagnosis: Check whether the dustbin, filter, or air duct is clogged, whether the roller brush is tangled with debris, and whether the suction inlet is blocked. Repair: Clean each potentially clogged component one by one, cut away hair wrapped around the roller brush, and ensure the suction inlet is free of obstructions.
+
+8. Symptom: Roller brush does not rotate. Diagnosis: Check whether the roller brush is jammed by foreign objects, whether the motor wiring is loose, and whether the roller brush motor has failed. Repair: Clear debris from the roller brush, reinstall it properly, and if it still does not rotate, contact after-sales service to inspect the motor.
+
+9. Symptom: Side brush does not rotate. Diagnosis: Check whether the side brush is properly installed, whether its shaft is tangled with hair, and whether the side brush motor is malfunctioning. Repair: Reinstall the side brush, clean debris from the shaft, and if the motor emits abnormal noise, replace the side brush motor.
+
+10. Symptom: Robot cannot find the charging dock. Diagnosis: Check whether there are obstructions around the charging dock, whether the return-to-dock sensors are dusty, and whether the charging dock’s infrared signal is functioning normally. Repair: Clear obstacles within 3 meters of the charging dock, wipe the return-to-dock sensors, and reposition the charging dock.
+
+11. Symptom: Charging indicator light blinks and the robot fails to charge normally. Diagnosis: Check whether the charging contacts are oxidized or dusty, whether the power adapter is faulty, and whether the battery is damaged. Repair: Wipe the charging contacts with a dry cloth, replace the power adapter, and if the battery is damaged, replace it.
+
+12. Symptom: Battery runtime has drastically decreased. Diagnosis: Check the battery’s usage duration, whether overcharging or deep discharging has occurred, and whether the battery is swollen. Repair: Avoid overcharging or deep discharging, perform periodic full charge/discharge cycles to recalibrate, and replace the original battery if runtime drops below 50% of original capacity.
+
+13. Symptom: Incomplete or distorted map creation. Diagnosis: Check whether the environment contains reflective surfaces, whether there are too many moving obstacles, and whether sensors are malfunctioning. Repair: Cover reflective objects, remove moving obstacles, delete the old map, and rebuild the map.
+
+14. Symptom: Robot frequently pauses during cleaning. Diagnosis: Check whether the dustbin is full, whether battery level is low, and whether sensors are obstructed. Repair: Empty the dustbin, fully charge the battery, and wipe dust from sensor surfaces.
+
+15. Symptom: Water tank leaks during mopping. Diagnosis: Check whether the water tank cap is tightly closed, whether the sealing ring is aged or detached, and whether the water outlet tube is clogged. Repair: Tighten the water tank cap, replace the aged sealing ring, and unclog the water outlet tube.
+
+16. Symptom: No water dispensed during mopping. Diagnosis: Check whether the water tank contains water, whether the water flow setting is at minimum, and whether the water outlet tube is blocked. Repair: Refill the tank with clean water, increase the water flow setting, and gently unclog the outlet tube using a toothpick.
+
+17. Symptom: Electric mop pad does not rotate. Diagnosis: Check whether the mop pad is tangled with debris, whether the mop motor is properly installed, and whether the motor wiring is loose. Repair: Clear debris from the mop pad, reinstall the mop motor, and contact after-sales service to inspect wiring issues.
+
+18. Symptom: Automatic mop-washing function fails. Diagnosis: Check whether the base station’s clean-water tank has water, whether the dirty-water tank is full, and whether the cleaning brush is clogged. Repair: Add clean water, empty the dirty-water tank, and remove debris entangled in the cleaning brush.
+
+19. Symptom: Robot emits a 'beep-beep-beep' alarm sound. Diagnosis: Check the indicator light error code on the robot body and the fault alert in the APP to identify the affected component (e.g., dustbin, filter, battery). Repair: Clean the indicated component as prompted and restart the robot.
+
+20. Symptom: Cliff detection fails, posing a fall risk. Diagnosis: Check whether the cliff sensors on the bottom are dusty or damaged. Repair: Wipe the sensors clean, test the robot on a flat surface, and if sensors are damaged, contact after-sales service for replacement.
+
+21. Symptom: Robot follows a chaotic, irregular cleaning path. Diagnosis: Check whether systematic (planned) cleaning mode is enabled, whether the map is complete, and whether new obstacles have been introduced. Repair: Enable planned cleaning mode, rebuild the map, and remove new obstacles.
+
+22. Symptom: Unable to select zones for zone cleaning. Diagnosis: Check whether mapping was successful, whether the APP is lagging, and whether zone settings were accidentally deleted. Repair: Rebuild the map, restart the APP, and reconfigure zone settings.
+
+23. Symptom: Robot enters areas marked as no-go zones. Diagnosis: Check whether the no-go zone boundaries were accurately set, whether the robot has recognized an updated map, and whether the temporary no-go zone disable feature is active. Repair: Adjust the no-go zone boundaries, ensure the robot recognizes the current map, and disable the temporary override function.
+
+24. Fault symptom: Robot powers off immediately after fully charging; Diagnosis: Check if the battery is swollen and whether the mainboard's power management module is faulty; Repair: Replace the swollen battery and contact after-sales service to inspect the mainboard.
+
+25. Fault symptom: Robot body overheats severely and emits an unusual odor; Diagnosis: Check if the motor is overloaded, if the battery is short-circuited, or if the air duct is blocked; Repair: Immediately power off and allow to cool down, clean the air duct, and contact after-sales service to inspect the motor and battery.
+
+26. Fault symptom: Robot fails to cross over thresholds; Diagnosis: Check if the threshold height exceeds the robot’s obstacle-crossing capability and whether there are obstructions at the threshold; Repair: Clear debris from the threshold, manually assist the robot in crossing once to help it memorize the location.
+
+27. Fault symptom: Dustbin installed but robot still alerts 'Dustbin not installed'; Diagnosis: Check if the dustbin is properly seated and whether the dustbin detection sensor is dusty; Repair: Reinstall the dustbin and ensure it clicks into place, then wipe the sensor clean.
+
+28. Fault symptom: Filter clogging alert persists even after cleaning; Diagnosis: Check if the filter is thoroughly cleaned, if it is damaged, or if the sensor is faulty; Repair: Replace a damaged filter, wipe the sensor clean, and restart the robot.
+
+29. Fault symptom: Manual remote control unresponsive; Diagnosis: Check if the phone-to-robot connection is stable, whether manual mode is selected, and if the remote control (if applicable) has dead batteries; Repair: Reconnect the device, switch to manual mode, and replace the remote control batteries.
+
+30. Fault symptom: Visible water streaks remain on the floor after mopping; Diagnosis: Check if water output is too high, if the mop pad is dirty or hardened, or if the cleaning speed is too fast; Repair: Reduce water output, replace the mop pad, and lower the cleaning speed.
+
+31. Fault symptom: Excessive noise during operation; Diagnosis: Check if the main brush or side brush is tangled with debris, if the wheels are jammed, or if the motor is faulty; Repair: Remove tangled debris, lubricate the wheel assembly, and contact after-sales service if the motor emits abnormal sounds.
+
+32. Fault symptom: Auto-empty function fails (for models with auto-empty base); Diagnosis: Check if the dust collection bag is properly installed, if the collection channel is blocked, or if the collection motor is operational; Repair: Reinstall the dust collection bag, clear the collection channel, and test the collection motor.
+
+33. Fault symptom: Paint peeling or housing damage on robot body; Diagnosis: Determine if caused by collisions and whether the damage affects internal components; Repair: Apply protective film for minor damage; replace the housing if damage significantly affects internal parts.
+
+34. Fault symptom: APP indicates cleaning complete, but floor remains dirty; Diagnosis: Check if the cleaning mode was set incorrectly, if suction power or water output is insufficient, or if areas were missed during cleaning; Repair: Adjust cleaning mode and parameters, and re-clean missed areas.
+
+35. Fault symptom: Robot cannot traverse carpets; Diagnosis: Check if the carpet is too thick, whether carpet boost mode is enabled, or if drive wheels are slipping; Repair: Enable carpet boost mode, remove debris from the carpet surface, and replace anti-slip pads on drive wheels.
+
+36. Fault symptom: Mop lift function fails during mopping; Diagnosis: Check if the lift mechanism is jammed, whether the motor operates, and if the feature is enabled in the APP; Repair: Clear debris from the lift mechanism, test the motor, and enable the lift function in the APP.
+
+37. Fault symptom: Robot loses map after reboot; Diagnosis: Check if factory reset was performed, if Wi-Fi disconnected, or if the robot’s storage module is faulty; Repair: Rebuild the map, maintain stable Wi-Fi connection, and contact after-sales service to inspect the storage module.
+
+38. Fault symptom: Battery won’t charge and indicator light doesn’t illuminate; Diagnosis: Check if the power adapter is receiving power, if charging contacts are oxidized, or if the battery is damaged; Repair: Replace the power adapter, clean oxidized contacts, and replace a damaged battery.
+
+39. Fault symptom: Robot misses corners and edges during cleaning; Diagnosis: Check if the side brush is worn, if edge sensors are dusty, or if edge-cleaning mode is enabled; Repair: Replace the side brush, wipe the sensors clean, and enable edge-cleaning mode.
+
+40. Fault symptom: Excessive cleaning solution residue after mopping; Diagnosis: Check if too much cleaning solution was added, if water output is too high, or if the mop pad wasn’t thoroughly rinsed; Repair: Reduce cleaning solution amount, lower water output, and thoroughly rinse the mop pad.
+
+41. Fault symptom: Robot shuts down unexpectedly during operation and won’t power back on; Diagnosis: Check if the battery is deeply discharged, if there’s a short circuit in the body, or if the motor triggered thermal protection; Repair: Recharge and retry, move to a well-ventilated area to cool down, and contact after-sales service to investigate potential short circuits.
+
+42. Fault symptom: Wi-Fi module fault alert; Diagnosis: Check if the Wi-Fi signal is stable, if the robot is within coverage range, or if the Wi-Fi module is damaged; Repair: Restart the router, move the robot to an area with stronger signal, and replace the Wi-Fi module if necessary.
+
+43. Fault symptom: Mop holder is loose and wobbles during mopping; Diagnosis: Check if the holder’s clips are broken or if it’s improperly installed; Repair: Reinstall the holder securely; replace the holder if clips are broken.
+
+44. Fault symptom: Robot stutters while cleaning on carpets; Diagnosis: Check if carpet fibers are wrapped around the main brush, if the carpet is too thick, or if carpet mode is enabled; Repair: Clean fibers from the main brush, disable carpet mode, and manually clean thick carpets.
+
+45. Fault symptom: Delayed or missing notification messages in the APP; Diagnosis: Check if the network connection is stable, if message notifications are enabled in the APP, and if the robot is online; Repair: Switch networks, enable message notifications, and restart the robot to reconnect.
+
+46. Fault symptom: Sparks occur during charging; Diagnosis: Check if charging contacts are dusty or oxidized, or if the power adapter is faulty; Repair: Wipe charging contacts clean, replace the power adapter, and immediately stop charging to investigate.
+
+47. Fault symptom: Robot repeatedly mops the same area; Diagnosis: Check if there’s a stubborn stain in that area, if sensors are misreading the surface, or if repeat cleaning mode is enabled; Repair: Manually clean the stubborn stain, restart the robot, and adjust the cleaning mode settings.
+
+48. Fault symptom: Main brush emits a 'clicking' noise while rotating; Diagnosis: Check if hard objects are trapped in the main brush, if the roller bearing is jammed, or if the main brush rubber strip is worn; Repair: Remove trapped objects, lubricate the bearing, and replace the worn rubber strip.
+
+49. Fault symptom: Robot fails to recognize newly added furniture and collides with it; Diagnosis: Check if the obstacle-avoidance sensors are calibrated and whether the furniture is light-colored or reflective; Solution: Recalibrate the obstacle-avoidance sensors and cover reflective parts of the furniture.
+
+50. Fault symptom: Dirty-water tank filter is clogged, causing poor drainage; Diagnosis: Check if the filter is blocked by debris or hair, or if it is damaged; Solution: Clean the filter and replace it if damaged.
+
+51. Fault symptom: Battery drains too quickly during operation, far exceeding normal runtime; Diagnosis: Check if high suction power or high water flow is enabled, whether the battery is aged, or if frequent recharging occurs; Solution: Adjust settings, replace the battery, and optimize the recharging path.
+
+52. Fault symptom: Robot loses positioning after being manually moved; Diagnosis: Check if a new map has been created, whether sensors are obstructed, or if position calibration is enabled; Solution: Enable position calibration, clean the sensors, and rebuild the map.
+
+53. Fault symptom: Mop pad sheds fibers during mopping, contaminating the floor; Diagnosis: Check if the mop pad is original, and whether it is damaged or aged; Solution: Replace with an original mop pad and avoid using damaged ones.
+
+54. Fault symptom: Robot cannot enter under beds or sofas for cleaning; Diagnosis: Check if the clearance under furniture is lower than the robot’s height or if no-go zones are set; Solution: Confirm adequate clearance and remove no-go zones for those areas.
+
+55. Fault symptom: Charging dock indicator light is off and not supplying power; Diagnosis: Check if the power cable is securely plugged in, whether the charging dock is damaged, or if the outlet has power; Solution: Replug the power cable, try a different outlet, or replace the charging dock if damaged.
+
+56. Fault symptom: Robot pushes debris around without picking it up during cleaning; Diagnosis: Check if suction power is too low, if the suction inlet is blocked, or if the main brush is worn; Solution: Increase suction power, clear the suction inlet, and replace the main brush.
+
+57. Fault symptom: Mop pad remains dirty after automatic self-cleaning; Diagnosis: Check if cleaning solution is present in the base station, whether the cleaning brushes are worn, or if the number of wash cycles is insufficient; Solution: Add cleaning solution, replace worn brushes, and increase the number of mop-washing cycles.
+
+58. Fault symptom: Robot vibrates excessively and operates unstably; Diagnosis: Check if wheels are unevenly worn, if the main brush is unbalanced, or if body screws are loose; Solution: Replace the wheel assembly, rebalance the main brush, and tighten the body screws.
+
+59. Fault symptom: APP cannot display cleaning history; Diagnosis: Check if the network connection is stable, whether the robot has uploaded records, or if the APP is outdated; Solution: Sync records over the network, update the APP, and restart the robot.
+
+60. Fault symptom: Robot shuts down due to malfunction when operating on wet floors; Diagnosis: Check for water ingress causing short circuits or moisture affecting sensors; Solution: Immediately power off and dry thoroughly, wipe sensors clean, and contact after-sales service for circuit inspection.
+
+61. Fault symptom: Side brush wears out rapidly and gets damaged soon after replacement; Diagnosis: Check for sharp debris on the floor, whether the side brush is original, or if the environment is excessively dusty; Solution: Remove sharp debris, replace with an original side brush, and increase replacement frequency.
+
+62. Fault symptom: Robot displays 'Battery Fault' and cannot operate; Diagnosis: Check if the battery is swollen or leaking, or if the battery connector is loose; Solution: Replace the battery and reseat the connector.
+
+63. Fault symptom: Scale buildup in the water tank during mopping blocks pipes; Diagnosis: Check if tap water was used for filling or if the tank hasn’t been cleaned for a long time; Solution: Soak the tank in citric acid solution to descale and use purified water for future refills.
+
+64. Fault symptom: Mopping function does not resume after crossing a carpet; Diagnosis: Check if the mop-lifting mechanism failed to reset or if 'carpet no-mop' is enabled in the APP; Solution: Manually reset the mop and disable the carpet no-mop setting.
+
+65. Fault symptom: Mainboard overheats during operation, causing automatic shutdown; Diagnosis: Check for prolonged continuous use, blocked air vents, or mainboard failure; Solution: Pause operation to cool down, clear air vents, and contact after-sales service for mainboard inspection.
+
+66. Fault symptom: APP cannot modify cleaning parameters (suction power, water flow); Diagnosis: Check if the APP is unresponsive, whether the robot is online, or if parameters are locked; Solution: Restart the APP, ensure the robot is online, and unlock parameter settings.
+
+67. Fault symptom: Robot misses pet hair during cleaning; Diagnosis: Check if the main brush is tangle-resistant, if suction is insufficient, or if pet mode is enabled; Solution: Replace with a tangle-resistant main brush, increase suction power, and enable pet mode.
+
+68. Fault symptom: Dustbin still contains dust after automatic emptying; Diagnosis: Check if the dust collection channel is blocked, if the collection motor lacks suction, or if the dust bag is full; Solution: Clear the channel, test the motor, and replace the dust bag.
+
+69. Fault symptom: Robot slips on tile floors and cannot move properly; Diagnosis: Check if drive wheels are worn or if the floor has water stains; Solution: Replace drive wheels and clean water stains from the floor.
+
+70. Fault symptom: Cleaning solution corrodes flooring (e.g., hardwood) during mopping; Diagnosis: Check if the cleaning solution is model-specific or if concentration is too high; Solution: Discontinue use of corrosive solution, rinse floor with clean water, and switch to a dedicated cleaning solution diluted appropriately.
+
+71. Fault symptom: Robot does not respond to voice commands; Diagnosis: Check if linked to a voice assistant, if the network is stable, or if the voice module is faulty; Solution: Re-link to the voice assistant, verify network connection, and contact after-sales service for module inspection.
+
+72. Fault symptom: Robot suddenly deviates from its cleaning path during operation; Diagnosis: Check if sensors are obstructed, if the floor has reflective or dark areas, or if obstacles were hit; Solution: Wipe sensors clean, cover reflective surfaces, and remove obstacles.
+
+73. Fault symptom: Dustbin emits odor that persists even after cleaning; Diagnosis: Check if bacteria have grown inside the dustbin or if the filter is moldy; Solution: Wash the dustbin with a neutral deodorizer, replace moldy filters, and allow to dry completely before reuse.
+
+74. Fault symptom: Robot body becomes stained with grease during mopping, which is hard to clean; Diagnosis: Check if operating in heavily greasy kitchen areas or if the mop pad is dirty; Solution: Wipe the body with a neutral detergent, thoroughly wash the mop pad, and manually pre-treat greasy spots.
+
+75. Fault symptom: After the robot finishes charging, the battery level display is inaccurate; Inspection: Check whether the battery needs calibration and whether the mainboard's battery detection module is faulty; Repair: Calibrate the battery by fully charging and fully discharging it 3 times, and contact after-sales service to inspect the module.
+
+76. Fault symptom: The rubber strip on the main brush has come off, affecting cleaning performance; Inspection: Check whether the rubber strip is aged or improperly installed; Repair: Reattach the rubber strip; if aged, replace the main brush.
+
+77. Fault symptom: The robot cannot switch maps between floors in a multi-story home; Inspection: Check whether multi-floor mapping is supported and whether maps are saved separately; Repair: Create a separate map for each floor and manually switch maps before use.
+
+78. Fault symptom: Water output fluctuates during mopping—sometimes too much, sometimes too little; Inspection: Check whether the water outlet tube is clogged, whether the water tank level is too low, and whether the water valve is stuck; Repair: Clear the water outlet tube, refill with clean water, and remove debris from the water valve.
+
+79. Fault symptom: The robot gets tangled in cables during operation and cannot free itself; Inspection: Check whether loose cables are on the floor and whether anti-tangling function is enabled; Repair: Remove cables from the floor, enable anti-tangling function, and manually assist the robot to untangle.
+
+80. Fault symptom: Dirty water from the dirty-water tank flows back, contaminating the clean-water tank; Inspection: Check whether the dirty-water tank is overflowing and whether the drainage pipe is clogged; Repair: Empty the dirty water, unclog the drainage pipe, and clean the clean-water tank.
+
+81. Fault symptom: The robot’s indicator light flashes but there is no audible alarm; Inspection: Refer to the user manual to interpret the indicator light code and identify the corresponding issue (e.g., battery, network); Repair: Follow the code instructions to resolve the issue and restart the robot.
+
+82. Fault symptom: Abnormal noise from the air duct during sweeping, with unstable suction power; Inspection: Check whether foreign objects are stuck in the air duct and whether the motor is malfunctioning; Repair: Remove debris from the air duct and contact after-sales service to inspect the motor.
+
+83. Fault symptom: The mop holder bracket is rusted, affecting rotation; Inspection: Check whether the robot is used in a humid environment and whether the bracket is made of stainless steel; Repair: Clean rust with a rust remover, replace with a stainless steel bracket, and ensure dry usage conditions.
+
+84. Fault symptom: The robot fails to execute scheduled cleaning tasks; Inspection: Check whether the time is set correctly, whether Wi-Fi is functioning normally, and whether the robot is powered on; Repair: Calibrate the time, ensure stable network connection, and keep the robot powered on.
+
+85. Fault symptom: Rust on the main brush bearings causes stiff rotation; Inspection: Check whether water has entered the bearings and whether maintenance has been neglected for a long time; Repair: Apply specialized lubricating oil; if ineffective, replace the main brush.
+
+86. Fault symptom: Streak-like stains appear on the floor after mopping; Inspection: Check whether the mop pad is unevenly tensioned, whether stubborn stains exist on the floor, and whether water output is inconsistent; Repair: Adjust mop pad installation, manually clean stubborn stains, and recalibrate water output.
+
+87. Fault symptom: The robot frequently disconnects from Wi-Fi after connecting; Inspection: Check whether the Wi-Fi signal is weak, whether the robot is too far from the router, and whether there is signal interference; Repair: Strengthen the Wi-Fi signal, move the robot closer to the router, and avoid sources of interference.
+
+88. Fault symptom: Dust leaks from the dust bag, contaminating the floor; Inspection: Check whether the dust bag is properly installed, whether it is torn, and whether the dustbin seal is tight; Repair: Reinstall the dust bag, replace if damaged, and inspect the sealing components.
+
+89. Fault symptom: The robot stops operating after bumping into lightweight small obstacles (e.g., slippers); Inspection: Check whether obstacle avoidance sensitivity is set to maximum and whether collision protection is enabled; Repair: Lower obstacle avoidance sensitivity and disable excessive collision protection.
+
+90. Fault symptom: Cleaning solution in the water tank spoils during mopping, causing odor; Inspection: Check whether the cleaning solution is expired and whether the water tank has not been cleaned for a long time; Repair: Replace with fresh cleaning solution, thoroughly clean the water tank, and let it dry before reuse.
+
+91. Fault symptom: The robot cannot return to the charging dock automatically, but charges normally when placed manually; Inspection: Check whether the return-to-dock sensors are faulty and whether the charging dock signal is normal; Repair: Wipe the sensors, adjust the charging dock position, and test the signal.
+
+92. Fault symptom: The main brush cannot be reinstalled after removal; Inspection: Check whether the installation direction is correct, whether the clips are aligned, and whether debris is blocking installation; Repair: Adjust the installation direction, align the clips, and clear debris from the installation area.
+
+93. Fault symptom: The robot tilts during mopping, resulting in uneven cleaning; Inspection: Check whether the wheels are unevenly worn, whether debris is stuck in the chassis, and whether the floor is level; Repair: Replace the wheel assembly, remove debris from the chassis, and operate only on level surfaces.
+
+94. Fault symptom: APP login fails and the robot cannot be bound; Inspection: Check whether the account credentials are correct, whether the network is stable, and whether the robot is in pairing mode; Repair: Reset the password, verify network connectivity, and switch the robot to pairing mode.
+
+95. Fault symptom: The side brush rotates eccentrically and hits the robot body; Inspection: Check whether the side brush is properly installed and whether the shaft is bent; Repair: Reinstall the side brush and replace the bent shaft.
+
+96. Fault symptom: Cat litter or dog litter remains on the floor after mopping and is not cleaned up; Inspection: Check whether suction power is insufficient, whether pet mode is enabled, and whether the mop is too wet; Repair: Increase suction power, enable pet mode, and reduce water output.
+
+97. Fault symptom: The motor does not rotate during operation, and there is no suction; Inspection: Check whether the motor wiring is loose, whether the motor is burnt out, and whether power is connected; Repair: Inspect wiring, contact after-sales service to test the motor, and confirm power connection.
+
+98. Fault symptom: The self-cleaning mop model’s cleaning station heating function is not working; Inspection: Check whether the heating module is faulty, whether the heating function is enabled in the APP, and whether there is water in the cleaning station; Repair: Enable the heating function in the APP, add clean water, and contact after-sales service to inspect the module.
+
+99. Fault symptom: The robot covers insufficient area during cleaning, missing large sections; Inspection: Check whether the map is complete, whether edge cleaning is enabled, and whether the battery is low; Repair: Rebuild the map, enable edge cleaning, and start cleaning only after a full charge.
+
+100. Fault symptom: Battery leakage corrodes the interior of the robot; Inspection: Check the severity of the leakage and whether the mainboard is affected; Repair: Immediately stop using the robot, clean up the leaked fluid, contact after-sales service to inspect the mainboard, and replace the battery.
+
+101. Fault symptom: The robot scratches the floor while operating on wooden flooring; Diagnosis: Check if the wheel assembly has sharp debris, if the main brush has hard objects stuck, and if there are sand particles on the floor; Resolution: Clean debris from the wheel assembly and main brush, and remove sand particles from the floor beforehand.
+
+102. Fault symptom: The APP cannot delete old maps; Diagnosis: Check if the map is locked, if the APP is lagging, and if the robot is online; Resolution: Unlock the map, restart the APP, and ensure the robot is online before deleting.
+
+103. Fault symptom: The mop pad hardens during mopping, resulting in poor cleaning performance; Diagnosis: Check if the mop pad hasn’t been cleaned for a long time or if it was stored in a humid environment; Resolution: Soak the mop pad in warm water, wash it thoroughly, let it dry completely, and replace it if aged.
+
+104. Fault symptom: The robot suddenly emits a burning smell during operation; Diagnosis: Check if the motor is overloaded, if there’s a short circuit in the wiring, or if the battery is faulty; Resolution: Immediately power off the robot, disconnect the power source, and contact after-sales service for a comprehensive inspection.
+
+105. Fault symptom: Obstacle-avoidance sensors misjudge and avoid areas with no obstacles; Diagnosis: Check if the sensors are dusty, whether calibration is needed, and if ambient light is too bright; Resolution: Wipe the sensors clean, recalibrate them, and avoid using the robot in strong lighting conditions.
+
+106. Fault symptom: The dust collection station’s air outlet is clogged, reducing collection efficiency; Diagnosis: Check if hair or debris is blocking the air outlet and if the filter is clogged; Resolution: Clear debris from the air outlet and clean the filter.
+
+107. Fault symptom: The robot fails to perform spot cleaning due to inaccurate positioning; Diagnosis: Check if the map is complete, if the spot-cleaning location is set accurately, and if the sensors are functioning properly; Resolution: Rebuild the map, adjust the spot-cleaning location, and wipe the sensors clean.
+
+108. Fault symptom: The water tank level drops too quickly during mopping, inconsistent with the cleaned area; Diagnosis: Check for leaks and whether the water flow setting is too high; Resolution: Inspect the water tank for leaks and reduce the water flow setting.
+
+109. Fault symptom: The main brush rotates slowly, resulting in weak cleaning performance; Diagnosis: Check if the main brush is tangled with debris, if the motor is aging, and if the voltage is stable; Resolution: Remove debris, contact after-sales service to inspect the motor, and ensure stable charging.
+
+110. Fault symptom: Silicone components on the robot body (e.g., seals, bumper strips) have aged and cracked; Diagnosis: Check if the robot has been used long-term in high-temperature or humid environments; Resolution: Replace aged components and avoid storing the robot in harsh environments.
+
+111. Fault symptom: The APP shows the robot as online but cannot send commands; Diagnosis: Check if the network is lagging, if commands are being blocked, and if the robot is currently working; Resolution: Switch networks, disable blocking software, pause the robot’s operation, and resend the command.
+
+112. Fault symptom: The robot lingers too long on carpets during mopping, soaking them; Diagnosis: Check if carpet mopping prohibition is enabled and if the mop-lifting function works properly; Resolution: Enable carpet mopping prohibition and inspect the mop-lifting function.
+
+113. Fault symptom: One or both drive wheels fail to rotate; Diagnosis: Check if the drive wheels are tangled with debris, if the motor is faulty, or if wiring is loose; Resolution: Clear debris and contact after-sales service to inspect the motor and wiring.
+
+114. Fault symptom: The dustbin filter is deformed, affecting filtration performance; Diagnosis: Check if it was installed incorrectly or if it has been clogged for a long time without cleaning; Resolution: Install the filter correctly, clean it regularly, and replace it if severely deformed.
+
+115. Fault symptom: Hair residue remains in the cleaning dock after automatic mop washing; Diagnosis: Check if the cleaning brush is thoroughly cleaned and if debris is present at the bottom of the cleaning dock; Resolution: Thoroughly clean the cleaning brush and rinse the bottom of the cleaning dock.
+
+116. Fault symptom: The robot behaves abnormally during operation due to interference from remote controls (or other devices); Diagnosis: Check for same-frequency interference sources and whether the robot’s infrared receiver is turned off; Resolution: Avoid interference sources and disable unnecessary infrared reception functions.
+
+117. Fault symptom: Foam appears on the floor during mopping due to excessive cleaning solution; Diagnosis: Check if too much cleaning solution was added or if it wasn’t diluted; Resolution: Mop again with clean water and dilute the cleaning solution according to the recommended ratio.
+
+118. Fault symptom: The robot fails to recognize the charging dock and collides with it; Diagnosis: Check if the charging dock is placed level and if the return-to-dock sensor is faulty; Resolution: Adjust the charging dock position, wipe the sensor clean, and test the sensor functionality.
+
+119. Fault symptom: The main brush end clips are broken and cannot hold the brush in place; Diagnosis: Check if impact caused the damage or if the clips have aged; Resolution: Replace the main brush and prevent the robot from colliding with hard objects.
+
+120. Fault symptom: The mop pad detaches during mopping due to insecure attachment; Diagnosis: Check if the hook-and-loop fasteners are aged, if the mop pad is clean, and if the mounting bracket is flat; Resolution: Replace the fasteners, clean the mop pad and bracket, and ensure flat installation.
+
+121. Fault symptom: The robot’s battery level display jumps erratically during operation (e.g., from 80% to 20%); Diagnosis: Check if the battery is aged or if the battery monitoring module is faulty; Resolution: Replace the battery and contact after-sales service to calibrate the monitoring module.
+
+122. Fault symptom: The APP cannot add new cleaning tasks; Diagnosis: Check if duplicate tasks exist, if the robot is online, and if the APP has cache issues; Resolution: Delete duplicate tasks, ensure the robot is online, and clear the APP cache.
+
+123. Fault symptom: The robot stops after getting tangled on long-pile carpets; Diagnosis: Check if anti-tangle mode is enabled and if the main brush is an anti-tangle model; Resolution: Enable anti-tangle mode, replace with an anti-tangle main brush, and manually remove tangled debris.
+
+124. Fault symptom: Water leaks from the water delivery tube during mopping, not from the water tank; Diagnosis: Check if the tube is damaged or if the connections are loose; Resolution: Replace the water delivery tube and tighten the connections.
+
+125. Fault symptom: The robot’s indicator light stays on constantly but it performs no actions; Diagnosis: Check if it’s in standby mode, if there’s an unreported fault, or if the mainboard is frozen; Resolution: Switch operating modes, restart the robot, and contact after-sales service to inspect the mainboard.
+
+126. Fault symptom: Excessive noise from the dust collection motor during operation; Diagnosis: Check if the motor is jammed or if the dust collection channel is blocked; Resolution: Clear debris from the motor and unclog the dust collection channel.
+
+127. Fault symptom: Cleaning solution residue remains on the floor during mopping and is difficult to remove; Diagnosis: Check if the mop pad is too wet or if dry mopping was not performed at the end; Solution: Reduce water output and enable dry mopping mode for finishing.
+
+128. Fault symptom: Robot cannot cross thresholds with a height ≤2 cm; Diagnosis: Check if drive wheel power is insufficient or if there are obstructions on the threshold; Solution: Clear debris from the threshold and contact after-sales service to inspect drive wheel power.
+
+129. Fault symptom: Dust leaks from the dustbin after installation, contaminating the robot body; Diagnosis: Check if the dustbin sealing ring is aged or if the dustbin is properly installed; Solution: Replace the sealing ring, reinstall the dustbin, and ensure a tight seal.
+
+130. Fault symptom: Dirty-water tank of self-cleaning mop models cannot empty wastewater; Diagnosis: Check if the dirty-water tank latch is stuck or if the drain outlet is blocked by debris; Solution: Release the latch and clear debris from the drain outlet.
+
+131. Fault symptom: Robot fails to resume normal cleaning after colliding with an obstacle; Diagnosis: Check if the bumper strip is stuck, if sensors are misreading, or if the post-collision pause feature is enabled; Solution: Reset the bumper strip, wipe the sensors clean, and disable the collision pause function.
+
+132. Fault symptom: Mop motor overheats significantly during mopping; Diagnosis: Check if the motor is overloaded, operating continuously for too long, or obstructed by debris; Solution: Pause operation to allow cooling, remove obstructions, and avoid prolonged mopping sessions.
+
+133. Fault symptom: APP fails to sync robot status (e.g., battery level, cleaning progress); Diagnosis: Check if the network connection is stable, if the robot is online, and if the APP requires an update; Solution: Ensure network connectivity, restart the robot, and update the APP.
+
+134. Fault symptom: Worn rubber strips on the main brush cause abnormal noise during cleaning; Diagnosis: Check if the rubber strips are completely worn or if the main brush is scraping the floor; Solution: Replace the main brush and avoid continued use after the rubber strips are worn.
+
+135. Fault symptom: Robot gets stuck in tile grout lines and cannot move; Diagnosis: Check if the grout lines are too wide or if drive wheels are caught on debris; Solution: Clear debris from the grout lines and manually assist the robot out of the stuck position.
+
+136. Fault symptom: Water tank lid becomes loose or falls off during mopping; Diagnosis: Check if the lid latch is broken or if the lid is properly installed; Solution: Replace the water tank lid and install it correctly, ensuring it clicks securely into place.
+
+137. Fault symptom: Robot suddenly disconnects from Wi-Fi during operation and cannot reconnect; Diagnosis: Check if the Wi-Fi signal is interrupted or if the robot’s Wi-Fi module is faulty; Solution: Restart the router, restart the robot, and contact after-sales service to inspect the Wi-Fi module.
+
+138. Fault symptom: Side brush bristles deform during rotation, failing to clean corners effectively; Diagnosis: Check if the side brush has overheated, collided with hard objects, or aged; Solution: Replace the side brush and avoid collisions with hard objects.
+
+139. Fault symptom: Pet urine residue remains on the floor after mopping, causing noticeable odor; Diagnosis: Check if spot cleaning is enabled and if the cleaning solution is formulated for odor removal; Solution: Enable spot cleaning and use pet-specific deodorizing cleaning solution.
+
+140. Fault symptom: Charging dock overheats significantly during charging; Diagnosis: Check if the charging dock has adequate ventilation, if it is an original unit, and if there is a short circuit; Solution: Charge in a well-ventilated area, replace with an original charging dock, and investigate potential short circuits.
+
+141. Fault symptom: Main brush cannot be removed and is jammed in the roller brush compartment; Diagnosis: Check if debris is blocking it, if the latch is broken, or if it hasn’t been cleaned for a long time; Solution: Remove debris, replace any broken latch, apply lubricant, and attempt removal again.
+
+142. Fault symptom: Robot moves too quickly during mopping, resulting in uneven cleaning; Diagnosis: Check if cleaning speed is set to high or if rapid cleaning mode is enabled; Solution: Lower the cleaning speed and disable rapid cleaning mode.
+
+143. Fault symptom: APP displays incorrect fault alerts (e.g., falsely indicating a clogged filter when none exists); Diagnosis: Check if sensors are misreading, if the APP is lagging, or if an update is needed; Solution: Wipe the sensors clean, restart the APP, and update to the latest version.
+
+144. Fault symptom: Robot creates distorted maps when operating under direct sunlight; Diagnosis: Check if obstacle-avoidance sensors are affected by strong light or reflective surfaces; Solution: Avoid direct sunlight, shield reflective objects, and rebuild the map.
+
+145. Fault symptom: Dust leaks from the dust bag after installation due to poor sealing; Diagnosis: Check if the dust bag is original, properly installed, and if the sealing components are intact; Solution: Replace with an original dust bag, reinstall correctly, and inspect the sealing components.
+
+146. Fault symptom: Mop holder scrapes the floor during mopping, causing abnormal noise; Diagnosis: Check if the holder is deformed, if the mop pad is properly installed, or if there are floor protrusions; Solution: Straighten the holder, reinstall the mop pad, and remove floor protrusions.
+
+147. Fault symptom: Robot triggers thermal protection due to excessively high battery temperature during operation; Diagnosis: Check if operating in a high-temperature environment or running continuously for too long; Solution: Move to a cool area to cool down, perform cleaning in batches, and avoid extended continuous operation.
+
+148. Fault symptom: APP cannot share the device with family members; Diagnosis: Check if sharing permissions are enabled, if the family member’s account details are correct, and if the network is stable; Solution: Enable sharing permissions, verify account information, and ensure stable network connectivity.
+
+149. Fault symptom: Side brush motor emits a 'buzzing' sound but does not rotate; Diagnosis: Check if the motor is jammed, if wiring is loose, or if the motor is burnt out; Solution: Clear debris from the motor, inspect wiring connections, and replace the motor if burnt out.
+
+150. Fault symptom: Cement particles or sand grains on the floor scratch the mop pad during mopping; Diagnosis: Check if hard debris was cleared beforehand or if the robot was used without initial deep cleaning after renovation; Solution: Manually remove hard debris and perform thorough initial cleaning before using the robot.
+
+151. Fault symptom: Robot fails to power on despite having battery charge; Diagnosis: Check if the power button is faulty, if the mainboard has a short circuit, or if motors are jammed; Solution: Inspect the power button, contact after-sales service to test the mainboard, and clear motor obstructions.
+
+152. Fault symptom: APP cleaning records display incorrectly (e.g., cleaned area does not match actual); Diagnosis: Check if the map is accurate, whether positioning is offset, and if the APP has excessive cache; Resolution: Rebuild the map, recalibrate positioning, and clear the APP cache.
+
+153. Fault symptom: Clean water in the tank becomes cloudy too quickly during mopping; Diagnosis: Check if the floor is excessively dirty, if the mop pad hasn’t been cleaned, or if there’s dirty water backflow; Resolution: Clean the floor beforehand, wash the mop pad, and inspect for dirty water backflow issues.
+
+154. Fault symptom: The caster wheel doesn’t rotate during operation, affecting turning; Diagnosis: Check if the caster wheel is tangled with debris, if the bearing is rusted, or if it’s worn out; Resolution: Remove debris, apply lubricating oil, and replace the worn caster wheel.
+
+155. Fault symptom: For self-cleaning mop models, the cleaning station’s water pump doesn’t work and no water flows out; Diagnosis: Check if the water pump is clogged, if wiring is loose, or if the pump itself is faulty; Resolution: Unclog the water pump, inspect wiring connections, and contact after-sales service to replace the pump.
+
+156. Fault symptom: After colliding, the robot changes its cleaning direction and misses areas; Diagnosis: Check if the post-collision reset function is enabled and if obstacle-avoidance sensors are functioning properly; Resolution: Enable the reset function and wipe the sensors clean.
+
+157. Fault symptom: Mop pad develops mold and emits odor during mopping; Diagnosis: Check if the mop pad was stored without drying or used in a humid environment; Resolution: Replace the moldy mop pad, thoroughly dry it after washing, and avoid storing it in damp conditions.
+
+158. Fault symptom: Robot cannot recognize Wi-Fi network name (with Chinese characters); Diagnosis: Check if the Wi-Fi name contains special characters and whether the robot supports Chinese Wi-Fi names; Resolution: Change the Wi-Fi name to English letters/numbers and reconnect.
+
+159. Fault symptom: Main brush pulls out carpet fibers during cleaning, damaging the carpet; Diagnosis: Check if the main brush is designed specifically for carpets and if suction power is too high; Resolution: Replace with a carpet-specific main brush and reduce suction power.
+
+160. Fault symptom: Water leaks from the robot at thresholds during mopping; Diagnosis: Check if the water tank is tilted, if the sealing ring is damaged, or if water output is too high; Resolution: Adjust the robot’s position, replace the sealing ring, and reduce water output.
+
+161. Fault symptom: Robot’s mainboard fails during operation, causing automatic restarts; Diagnosis: Check if it has been operating continuously for too long, if there’s a short circuit, or if the mainboard is aging; Resolution: Pause operation to allow cooling, check for short circuits, and contact after-sales service to inspect the mainboard.
+
+162. Fault symptom: Unable to modify robot name or notes in the APP; Diagnosis: Check if the robot is online, if the APP has cached data, and if it’s running the latest version; Resolution: Ensure the robot is online, clear the APP cache, and update the APP.
+
+163. Fault symptom: Side brush becomes loose after installation and wobbles during rotation; Diagnosis: Check if the snap-fit clip is broken, if installation is secure, and if the side brush is original equipment; Resolution: Replace the clip, reinstall properly, and use an original side brush.
+
+164. Fault symptom: Juice or oil stains remain on the floor after mopping and aren’t cleaned; Diagnosis: Check if multiple cleaning passes are enabled and if the cleaning solution is formulated for grease removal; Resolution: Enable multiple cleaning passes, use a dedicated degreasing cleaning solution, and manually pre-treat the stains.
+
+165. Fault symptom: Battery swells during charging, posing a safety hazard; Diagnosis: Check if overcharging occurred, if the battery is aged, or if the charger is faulty; Resolution: Immediately stop charging and replace both the battery and charger with original parts.
+
+166. Fault symptom: Inner wall of the main brush compartment wears down, causing dust leakage; Diagnosis: Check if hard objects have been swept for extended periods and if the compartment wall has aged; Resolution: Avoid sweeping hard objects and contact after-sales service to replace the brush compartment.
+
+167. Fault symptom: Robot fails to detect carpets during mopping, resulting in wet carpets; Diagnosis: Check if the carpet detection sensor is dusty and if carpet recognition is enabled; Resolution: Wipe the sensor clean and enable carpet recognition.
+
+168. Fault symptom: After disconnection during operation, the robot loses cleaning progress upon reconnection; Diagnosis: Check if the resume-from-breakpoint feature is enabled and if the map is saved; Resolution: Enable resume-from-breakpoint and ensure the map is saved.
+
+169. Fault symptom: Dustbin handle breaks, making it impossible to remove; Diagnosis: Check if caused by impact or if the handle has aged; Resolution: Replace the dustbin and avoid impacting the handle.
+
+170. Fault symptom: For self-cleaning mop models, the cleaning station’s filter is clogged, preventing water flow; Diagnosis: Check if the filter contains debris or hair and if it’s damaged; Resolution: Clean the filter and replace it if damaged.
+
+171. Fault symptom: Robot behaves abnormally due to Bluetooth device interference during operation; Diagnosis: Check if nearby Bluetooth devices are present and if Bluetooth interference protection is disabled; Resolution: Keep away from Bluetooth devices and enable interference protection.
+
+172. Fault symptom: Mop pad absorbs too much water during mopping, causing slow floor drying; Diagnosis: Check if water output is too high and if the mop pad is overly absorbent; Resolution: Reduce water output and switch to a thinner mop pad.
+
+173. Fault symptom: Robot cannot power on or operate in low-temperature environments (<5°C); Diagnosis: Check if the battery has low-temperature protection activated or if the unit is frozen; Resolution: Move to a room-temperature environment and let it sit for 30 minutes to thaw before charging and powering on.
+
+174. Fault symptom: APP cannot display robot location; positioning is lost; Diagnosis: Check if the map is complete, if sensors are functioning normally, and if positioning is enabled; Resolution: Rebuild the map, wipe the sensors clean, and enable positioning.
+
+175. Fault symptom: Side brush bristles fall out, affecting cleaning performance; Diagnosis: Check if the side brush is original, if it’s aged, or if it has hit hard objects; Resolution: Replace with an original side brush and avoid collisions.
+
+176. Fault symptom: Laundry detergent residue remains on the floor after mopping, creating foam; Diagnosis: Check if laundry detergent was mistakenly added or if the cleaning solution is foaming type; Resolution: Mop repeatedly with clean water and switch to a non-foaming cleaning solution.
+
+177. Fault symptom: Motor bearing makes abnormal noise during operation, though suction remains normal; Diagnosis: Check if the bearing is rusted or lacks lubrication; Resolution: Apply specialized lubricating oil; if the issue persists, replace the motor.
+
+178. Fault symptom: The APP cannot set cleaning frequency (e.g., daily/weekly); Diagnosis: Check if the APP is lagging, whether the robot is online, and if the scheduling function is enabled; Resolution: Restart the APP, ensure the robot is online, and set the frequency after enabling the scheduling function.
+
+179. Fault symptom: Robot sensors malfunction in humid environments; Diagnosis: Check if sensors are damp or have water stains; Resolution: Wipe sensors with a dry cloth and use the robot in a dry environment.
+
+180. Fault symptom: After emptying, the dustbin of a self-emptying robot still contains a large amount of dust; Diagnosis: Check if the dust collection channel is clogged or if the collection motor’s suction is insufficient; Resolution: Clear the channel and contact after-sales service to test the motor’s suction power.
+
+181. Fault symptom: During operation, the robot suddenly veers to one side and cannot clean in a straight line; Diagnosis: Check for uneven wear on drive wheels, sensor obstruction, or uneven flooring; Resolution: Replace drive wheels, clean sensors, and operate on level ground.
+
+182. Fault symptom: Odor develops in the water tank during mopping, contaminating the cleaning solution; Diagnosis: Check if the tank hasn’t been cleaned for a long time or if the cleaning solution has expired; Resolution: Clean the water tank and replace with fresh cleaning solution.
+
+183. Fault symptom: Robot does not respond to the APP’s return-to-charge command; Diagnosis: Check if it is currently cleaning, if the network connection is stable, and if the charging dock is functioning properly; Resolution: Pause cleaning, verify network connectivity, and ensure the charging dock is powered and unobstructed.
+
+184. Fault symptom: The main brush’s rubber strip does not seal tightly against the floor, causing missed dust; Diagnosis: Check if the rubber strip is worn or if the main brush is improperly installed; Resolution: Replace the main brush and reinstall it to ensure proper contact with the floor.
+
+185. Fault symptom: Robot gets stuck at the edge of a carpet and cannot free itself; Diagnosis: Check if the carpet edge is curled up and whether carpet mode is enabled; Resolution: Flatten the carpet edge, disable carpet mode, and manually assist the robot to escape.
+
+186. Fault symptom: Water output during mopping appears normal, but the floor remains dry with no mopping effect; Diagnosis: Check if the mop pad is dry or if the water outlet tube is blocked by the mop; Resolution: Moisten the mop pad and clear any blockages in the mop.
+
+187. Fault symptom: APP account is compromised, and the robot is controlled by an unauthorized user; Diagnosis: Check if account credentials were leaked and whether two-factor authentication is enabled; Resolution: Change password, enable two-factor authentication, and unbind any unfamiliar devices.
+
+188. Fault symptom: Side brush motor wiring is damaged, causing a short circuit upon powering on; Diagnosis: Check if wires are scratched by entangled debris or have aged; Resolution: Immediately disconnect power, contact after-sales service to replace wiring, and avoid electric shock.
+
+189. Fault symptom: Scratches appear on the floor during mopping, suspected due to sand particles trapped in the mop pad; Diagnosis: Check if the mop pad contains sand or hard debris and if sharp objects are present on the floor; Resolution: Clean the mop pad and floor of hard debris, and replace the mop pad.
+
+190. Fault symptom: Charging indicator light functions normally, but the battery does not fully charge; Diagnosis: Check if the battery is degraded, if the charger provides insufficient power, or if overcharge protection is active; Resolution: Replace the battery, use the original charger, and calibrate the battery.
+
+191. Fault symptom: During cleaning, the main brush flicks dust upward instead of sucking it in; Diagnosis: Check if suction power is too low, if the main brush rotation direction is incorrect, or if the suction inlet is clogged; Resolution: Increase suction power, verify main brush installation direction, and clear the suction inlet.
+
+192. Fault symptom: Water leaks from the robot at the bathroom doorway during mopping, damaging the floor; Diagnosis: Check if the bathroom is set as a no-mop zone, if the water tank is leaking, or if there is standing water on the floor; Resolution: Set a no-mop zone, inspect and repair the water tank, and remove standing water.
+
+193. Fault symptom: Robot runs out of memory during operation and fails to map the area; Diagnosis: Check if too many old maps are stored or if cache files are accumulating; Resolution: Delete old maps and clear the robot’s cache.
+
+194. Fault symptom: Side brush rubs against the robot body during rotation, producing abnormal noise; Diagnosis: Check if the side brush is installed too tightly, is deformed, or if debris is lodged in the body; Resolution: Adjust side brush installation tightness, replace deformed brushes, and clean debris from the body.
+
+195. Fault symptom: Cleaning solution reacts with floor material during mopping, causing discoloration or yellowing; Diagnosis: Check if the cleaning solution is compatible with the floor type or if it is a low-quality product; Resolution: Discontinue use of the cleaning solution, rinse the floor with clean water, and switch to a compatible cleaning solution.
+
+196. Fault symptom: Robot abruptly stops cleaning and automatically returns to charge; Diagnosis: Check if battery is low, if auto-return-after-cleaning is enabled, or if a fault has occurred; Resolution: Fully charge the battery, adjust return-to-charge settings, and check for fault alerts.
+
+197. Fault symptom: Poor sealing of the main brush compartment allows dust to leak into the robot’s underside; Diagnosis: Check if seals are aged or detached, or if the brush compartment is deformed; Resolution: Replace seals and contact after-sales service to realign the brush compartment.
+
+198. Fault symptom: Mop pad rotates unevenly during mopping, leaving some areas untouched; Diagnosis: Check if the mop motor is faulty, if the mounting bracket is loose, or if the floor is uneven; Resolution: Test the motor, tighten the bracket, and operate on level ground.
+
+199. Fault symptom: Robot fails to reset to factory settings; reset button is unresponsive; Diagnosis: Check if the correct reset key combination was used, if held long enough, or if the mainboard is faulty; Resolution: Follow the manual’s reset instructions and contact after-sales service to inspect the mainboard.
+
+200. Fault symptom: All functions work normally, but fine dust remains on the floor after cleaning; Diagnosis: Check if the filter is excessively dirty, if suction power is insufficient, or if precision cleaning mode is disabled; Resolution: Clean or replace the filter, increase suction power, and enable precision cleaning mode.

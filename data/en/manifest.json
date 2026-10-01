@@ -1,0 +1,85 @@
+{
+  "model": "qwen3-max",
+  "files": [
+    {
+      "source": "扫地机器人100问.pdf",
+      "output": "robot_vacuum_100_questions.en.txt",
+      "source_sha256": "f9ee0fea506436d8ea4a5ac6e1c272191023f41e95b677842e527f57745b4eb8",
+      "nonempty_source_lines": 235,
+      "numbered_entries": 100,
+      "source_pages": 8,
+      "output_sha256": "020b80aa3c0bb5bbb990ea657bbacd28b1de55fe18ea59d386e24f7f6141e0a8",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 235
+    },
+    {
+      "source": "扫地机器人100问2.txt",
+      "output": "robot_vacuum_faq_100.en.txt",
+      "source_sha256": "57ae8d6f93bbca9a4df5bfdd0a5fb301874404a611af33e5fcce3127d5cf0a0b",
+      "nonempty_source_lines": 208,
+      "numbered_entries": 100,
+      "source_pages": null,
+      "output_sha256": "f6e41762ee3f2cae3ebc33337056e8263ce98e22d9187e274112d861c7ad956e",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 208
+    },
+    {
+      "source": "扫拖一体机器人100问.txt",
+      "output": "vacuum_mop_robot_100_questions.en.txt",
+      "source_sha256": "ad8af64df453a7bf3d614473cd66ce530ce707f4cacf549b90cb447889dccebc",
+      "nonempty_source_lines": 209,
+      "numbered_entries": 100,
+      "source_pages": null,
+      "output_sha256": "543889a6ca0263c92bb4197a3db26b4a75fd83a0db6def9058b485157e3ecd42",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 209
+    },
+    {
+      "source": "故障排除.txt",
+      "output": "troubleshooting_200.en.txt",
+      "source_sha256": "a954122a615861d62c74909d84a2f3a61f157d9bf5affa3c5f8ecd28998b84ad",
+      "nonempty_source_lines": 201,
+      "numbered_entries": 200,
+      "source_pages": null,
+      "output_sha256": "ee0e280c7d20ec6b9e8e0d6382541f45447a04cdf5fc400c7397aa273b07c545",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 201
+    },
+    {
+      "source": "维护保养.txt",
+      "output": "maintenance_and_care.en.txt",
+      "source_sha256": "a5159f149789988fb6bb1dd619f0060a84f436746fc32fafb0a2e0e3a39fa23a",
+      "nonempty_source_lines": 218,
+      "numbered_entries": 210,
+      "source_pages": null,
+      "output_sha256": "50b897df7bf8b74d614d109c26c3cb6ed899ad1d08c5a6653b8557036f0c8d79",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 218
+    },
+    {
+      "source": "选购指南.txt",
+      "output": "buying_guide_200.en.txt",
+      "source_sha256": "e06bb351f6ade02ba52590d98867a6a39a9882524413150b2cc207ace270f726",
+      "nonempty_source_lines": 201,
+      "numbered_entries": 200,
+      "source_pages": null,
+      "output_sha256": "45815e45a8440531f0f97c4f50e331072d9afcb613b246b952822f8f77078561",
+      "numeric_values_verified": true,
+      "untranslated_chinese_characters": 0,
+      "ordered_entry_numbering_verified": true,
+      "translated_nonempty_lines": 201
+    }
+  ],
+  "total_numbered_entries": 910,
+  "verification_note": "Automated coverage, numbering, numeric-value and untranslated-character checks; representative bilingual review. Translation preserves source claims without independent technical fact checking."
+}

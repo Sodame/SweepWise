@@ -1,0 +1,216 @@
+# Common Questions and Answers for Vacuum-and-Mop Robots (100 New Entries Added)
+### Integration of Vacuuming and Mopping Functions
+1. **Can a vacuum-and-mop robot vacuum only without mopping?**
+- Yes. In the companion app, go to [Cleaning Mode] and turn off the 'Mopping Function' to keep only the vacuuming mode, enabling vacuuming alone.
+2. **How do I set up a cleaning sequence that vacuums first and then mops?**
+- Open the app, select 'Vacuum First, Then Mop' mode in [Custom Cleaning], where you can customize suction power and water flow for mopping; the robot will automatically execute the sequence.
+3. **Will mopping while vacuuming smear stains across the floor?**
+- No. The 'Vacuum First' mode clears debris and dust before mopping. You can also set 'Vacuum-and-Mop Zones' in the app to prevent stain spreading.
+4. **Can I enable mopping only?**
+- Yes. Empty the dustbin, install the water tank and mop pad, then select 'Mop Only' mode in the app and adjust water flow as needed.
+5. **Does suction power decrease when vacuuming and mopping simultaneously?**
+- Some models slightly adjust suction by default to match mopping rhythm. You can manually increase suction to high in the app for powerful simultaneous vacuuming and mopping.
+6. **How do I set different parameters for vacuuming and mopping in different areas?**
+- After mapping is complete, name each zone on the map and set individual suction power, water flow, and cleaning passes for each zone in [Zone Settings].
+7. **Do vacuum-and-mop robots support both dry and wet mopping?**
+- Yes. Dry mopping removes surface dust and hair, while wet mopping tackles stains. Switch between 'Dry/Wet Mop' modes in the app; add clean water to the tank for wet mopping.
+8. **Can self-cleaning mop robots vacuum without washing the mop?**
+- Yes. Turn off the 'Auto Mop Washing' function and enable only vacuuming mode; if the mop isn't wet, no mopping will occur.
+9. **Will the mop pad automatically lift after vacuuming and mopping?**
+- On models with mop-lifting capability, the mop lifts automatically when returning to charge, crossing carpets, or finishing cleaning to avoid re-soiling floors. Enable this feature in the app.
+10. **How do I set the number of cleaning passes for vacuuming and mopping?**
+- In the app under [Cleaning Settings], select 'Cleaning Passes'—adjustable from 1 to 3 passes. Set multiple passes for areas with stubborn stains.
+
+### Mopping System-Specific Issues
+11. **What should I do if the water tank leaks after filling?**
+- Check if the tank cap is tightly closed and whether the sealing ring is dislodged or damaged. Ensure the outlet tube isn’t clogged, and fill water only up to the marked level to prevent overflow.
+12. **How do I adjust water flow if it’s too high or too low during mopping?**
+- In the app, go to [Mopping Settings], which typically offers low, medium, and high water flow levels. Use low for hardwood floors; medium or high for tiles or concrete.
+13. **Will the robot stop automatically if the water tank runs out?**
+- Models with low-water detection will pause mopping but continue vacuuming when the tank is empty. Some will send a low-water alert to the app, requiring manual refilling.
+14. **How do I add cleaning solution to the water tank?**
+- Use only the manufacturer-recommended cleaning solution, diluted with clean water at a 1:100 ratio. Never add undiluted solution directly, as it may corrode the tank or clog the outlet tube.
+15. **What should I do if the motorized mop pad doesn’t rotate?**
+- Check if hair or debris is tangled around the mop. Ensure the mop motor latch is properly installed. Clean and restart the robot; if it still doesn’t spin, contact customer support to inspect the motor.
+16. **How do I remove odor from the mop pad after washing?**
+- Soak the mop pad in warm water with neutral detergent for 10 minutes, scrub thoroughly, and air-dry before reuse. Regularly disinfect with high heat to prevent mold.
+17. **How do I install disposable mop pads?**
+- Lay the disposable pad flat on the mop holder and secure all four corners with the clips, ensuring a snug fit without looseness. Discard after use—no washing required.
+18. **How often should I wash reusable mop pads?**
+- Wash after every cleaning session to prevent residue buildup and hardening. In pet households or oily areas, wash immediately after each use.
+19. **How do I fix streaky water marks left on the floor during mopping?**
+- Check if the mop pad is dirty or stiffened; clean or replace it promptly. Reduce water flow and slow down the robot’s cleaning speed to prevent streaks from fast mopping.
+20. **What if corners and edges aren’t cleaned well during mopping?**
+- Check the mop coverage area. Some models offer an 'Edge Mopping Boost' feature—enable it in the app. Alternatively, manually clean edges or use spot-mopping mode.
+21. **What should I do when the dirty-water tank in a self-cleaning model is full?**
+- When the app notifies you that the dirty-water tank is full, promptly empty it, clean the tank and filter to prevent backflow and contamination of the cleaning system.
+22. **What if the base station doesn’t dispense water to clean the mop after filling?**
+- Check if the base station’s inlet tube is clogged and verify that the mop-washing pump is functioning. Clean and restart the robot; if the issue persists, contact customer support.
+23. **How do I secure a loose mop holder?**
+- Inspect the holder clips for breakage. If intact, align the holder with the chassis slot and press firmly until you hear a 'click,' confirming it’s securely locked before use.
+24. **Why does the robot repeatedly linger in the same area during mopping, and how can I fix it?**
+- The robot may detect stubborn stains and automatically focus cleaning there. If it’s a false detection, set a 'No-Mop Zone' in the app or manually remote-control the robot away.
+25. **How should I maintain the water tank if not used for a long time?**
+- Drain any remaining water, wipe the tank interior and sealing ring with a dry cloth, and store in a cool, dry place to prevent seal aging.
+
+### Cleaning Performance Optimization
+26. **What should I do if heavy kitchen grease isn’t cleaned effectively by mopping?**
+- First, activate high-suction mode to remove debris from oily surfaces. Use a dedicated cleaning solution with the highest water flow setting and perform multiple mopping passes. For stubborn oil stains, manually pre-treat the area before having the robot re-mop.
+27. **How do I clean up pet urine stains?**
+- First, use paper towels to absorb most of the urine. Then dilute a pet-specific deodorizing cleaner and add it to the water tank. Activate spot-mopping mode and clean the area multiple times, followed by dry-mopping mode to absorb residual moisture.
+28. **How should I handle stubborn stains like chewing gum or adhesive on the floor?**
+- Do not use the robot vacuum directly. Manually scrape off the surface adhesive with a scraper, wipe the area with a cleaning agent, and then let the robot perform a regular mop cycle.
+29. **How do I prevent mopping on carpeted areas?**
+- In the app, set carpeted areas as 'no-mop zones.' When the robot reaches these zones, it will automatically lift the mop pad or skip mopping, retaining only vacuuming functionality.
+30. **What if the water tank runs out of water mid-mopping in a large house?**
+- Choose a model that supports 'resume mopping from breakpoint.' After refilling the tank, the robot will return to the location where it ran out of water and continue mopping. Alternatively, divide the map into sections and mop different areas in batches.
+31. **What should I do if wooden floors warp or deform after mopping?**
+- Immediately blot excess moisture from the wood surface with a dry cloth and open windows for ventilation. For future mopping, switch to 'dry mop' mode or the lowest water flow setting to prevent water accumulation.
+32. **How do I clean grout lines on tile floors that don’t get clean with regular mopping?**
+- Enable the 'high-frequency vibrating mop' function (available on certain models), set water flow to medium, use a dedicated tile cleaner, and perform multiple mopping passes over the grout lines.
+33. **What if fine dust remains on the floor after mopping?**
+- Check if the filter is clogged or if the main brush is worn out; clean or replace them promptly. Before mopping, run 'precision sweep' mode first to avoid smearing dust with the mop pad.
+34. **Can I use the robot to mop in an open balcony area?**
+- Not recommended. Open balconies have wind-blown sand and water residue that can clog the robot’s sensors and filters. Uneven surfaces may also cause malfunctions. The robot should only be used in enclosed balconies.
+35. **How do I clean snack or juice stains in a child’s room?**
+- Dilute a small amount of fruit-and-vegetable cleaner with water and add it to the water tank. Use spot-mopping mode for cleaning, then follow with a plain water mopping pass to avoid cleaner residue.
+36. **How can I prevent the robot from leaving water marks near carpet edges during mopping?**
+- In the app, set a 'buffer zone' along the carpet edge. The robot will stop mopping 10 cm away from the carpet and only vacuum. Alternatively, enable the mop-lifting function.
+37. **How do I address lingering dust on old concrete floors after mopping?**
+- First, run high-suction mode twice to thoroughly vacuum. Then mop with medium water flow using a highly absorbent mop pad. Clean the mop pad immediately after use to remove accumulated dust.
+38. **The robot frequently bumps into mirrored furniture while mopping—how can I fix this?**
+- Set a 'collision-avoidance zone' under the mirrored furniture in the app, or wrap the bottom edges with anti-collision strips to prevent the robot from misjudging reflections. This won’t affect mopping performance.
+39. **The robot pushes debris around instead of sucking it up during mopping—what should I do?**
+- Check if the suction inlet is blocked. Set suction power to maximum, clear any entanglements from the main brush and side brush, and manually remove large debris before letting the robot resume operation.
+40. **How can I improve mopping performance under beds and sofas?**
+- Clear entangled items from under beds and sofas to ensure the robot can enter freely. In the app, set these areas for 'deep mopping' to increase suction power and the number of mopping passes.
+
+### Hardware Malfunctions and Alarms
+41. **How do I resolve a 'Mopping System Abnormal' alarm?**
+- Check if the water tank and mop pad are properly installed, and whether the mop motor is jammed. Clean debris and hair from the mopping module. If the alarm persists after restarting the robot, contact customer support.
+42. **The robot shows 'Water Tank Not Detected' even though the tank is installed—what should I do?**
+- Check if the water tank sensor is obscured by dust or moisture. Wipe the sensor with a dry, soft cloth, reinstall the tank, and ensure the latch is securely fastened.
+43. **The rotating mop makes a 'clicking' noise—how can I fix this?**
+- Remove the mop pad and clear hair, threads, and small debris from the holder. Check if the mop motor bearings need lubrication and apply a small amount of specialized lubricant (do not over-apply).
+44. **For self-cleaning models, how do I handle a 'Cleaning Dock Water Level Abnormal' alarm?**
+- Verify that fresh water in the dock is filled to the marked level and that the dirty water tank isn’t full. Clean the water level sensor in the dock, refill with fresh water, empty the dirty water tank, and restart the system.
+45. **The robot suddenly shuts down during mopping—what should I do?**
+- Check the remaining battery level; low battery triggers automatic return-to-charge. If the battery is sufficient, inspect the mopping module for jams and ensure sensors aren’t obstructed. Clean as needed and retry.
+46. **How do I resolve a 'Mop Holder Not Installed' alarm?**
+- Confirm the mop holder is fully inserted into the chassis slot and that the latch isn’t damaged. Replace the holder if damaged, reinstall it, and restart the robot.
+47. **How do I unclog a blocked water tank outlet tube?**
+- Gently clear the outlet with a toothpick or thin wire, taking care not to damage the tube. Then rinse the tank thoroughly with clean water to ensure smooth water flow.
+48. **The robot wobbles or veers off course during mopping—how can I fix this?**
+- Check if the mop pad is evenly installed and if the drive wheels are obstructed. Also, ensure the floor isn’t slippery from standing water. After cleaning, place the robot on a flat surface and restart it.
+49. **The automatic mop-lifting function isn’t working—what should I do?**
+- Confirm the feature is enabled in the app. Check if the mop-lifting motor is jammed and clear any debris around it. If the issue persists after restarting, contact customer support.
+50. **How do I handle a 'Cleaning Solution Too Concentrated' alarm?**
+- Completely drain the liquid from the tank, rinse it thoroughly with clean water several times, remix the cleaning solution according to the recommended ratio, refill the tank, and restart the robot.
+51. **How to resolve black streaks left by the robot while mopping?**
+- Check if the mop holder is worn or chipped, and whether sand or hard debris is trapped in the mop pad. Clean the mop promptly and replace any worn holder components.
+52. **What to do if the mopping module remains active while the robot is charging?**
+- Restart the robot to confirm whether the issue is caused by system lag. If the problem persists, restore factory settings via the app and reconfigure cleaning parameters.
+53. **How to resolve a 'Dirty-water tank filter clogged' alert?**
+- Remove the dirty-water tank filter, rinse off debris and stains with clean water, let it dry completely, then reinstall. Clean the filter regularly to prevent future clogs.
+54. **What to do if the mop motor doesn’t rotate and the body overheats?**
+- Immediately power off the robot to prevent motor burnout. Check if the motor is jammed by foreign objects. If you cannot clear it yourself, contact after-sales service for inspection and repair.
+55. **How to fix automatic deactivation of mopping after the robot crosses a threshold?**
+- Check if the threshold height exceeds the robot’s climbing capability. Enable the 'Resume mopping after obstacle crossing' feature (supported on certain models), or manually assist the robot over the threshold and restart mopping.
+
+### Consumables and Maintenance
+56. **How long does a mop pad last?**
+- Reusable washable mop pads should be replaced every 3–6 months under normal use; in households with pets or in heavily soiled/oily areas, replace every 1–2 months. Disposable mop pads are for single use only and should be replaced after each use.
+57. **How often should the water tank sealing ring be replaced?**
+- As a consumable part, the sealing ring should be replaced every 6–12 months. Replace immediately if signs of aging, cracking, or leakage appear.
+58. **How often should the cleaning brush on self-washing mop models be cleaned?**
+- Clean hair and debris from the cleaning brush each time you empty the dirty water. Rinse it thoroughly with clean water once a week, and replace it promptly if worn or deformed.
+59. **Does the mopping module’s bearing require maintenance?**
+- Yes. Apply 1–2 drops of dedicated lubricating oil to the bearing every 3 months to prevent rust and jamming, ensuring smooth rotation of the mop.
+60. **Can vacuum filters be used in the mopping system?**
+- No. Vacuum filters and mopping system filters differ in specifications and functions. Mopping filters are designed specifically to filter dirty water—using the wrong type may damage the device.
+61. **How to clean the sensors in the mopping system?**
+- Gently wipe sensor surfaces with a dry, soft cloth or lint-free cloth. Do not use wet cloths or alcohol, as moisture may damage or impair the sensors.
+62. **How to coordinate replacement of consumables for models with both auto-empty and auto-mop-wash functions?**
+- Replace the dust collection bag every 1–2 months, the mop pad every 3 months, clean the filter every 1–2 months, and replace the filter every 6 months—adjust based on actual usage frequency.
+63. **Can a broken snap on the mop holder be repaired?**
+- No, a broken snap cannot be repaired. Replace it with an original equipment holder of the same model. Using non-original parts may degrade mopping performance or damage the robot.
+64. **How to maintain the water pump on self-washing mop models?**
+- When unused for extended periods, drain all water from the cleaning station and water tanks. Rinse the pump tubing with clean water to prevent scale and residue buildup. Use a descaling agent to clean the system once every 3 months.
+65. **Can disposable mop pads be washed and reused?**
+- Not recommended. Disposable mop pads are designed for single-use performance in absorbency and cleaning. Washing them causes hardening and fiber shedding, which reduces mopping effectiveness and may clog the mopping module.
+
+### Scenario Adaptation and Usage Tips
+66. **How to use the robot mop during humid 'hui nan tian' weather in southern China?**
+- Set to 'dry mopping' mode with water flow turned off, using the mop’s absorbency to remove floor moisture. Run an air conditioner in dehumidifying mode simultaneously to prevent floors from becoming damp again after mopping.
+67. **What precautions should be taken when mopping in heated-floor homes in northern winters?**
+- Use low water flow settings. After mopping, open windows for ventilation to prevent rapid evaporation of water due to underfloor heating, which can leave water marks. Choose thin, highly absorbent mop pads.
+68. **How can renters without a balcony dry their mop pads?**
+- After washing, press out excess water with a dry towel and place the mop pad in a well-ventilated indoor area, or use a hair dryer on cool setting to speed up drying. Avoid storing in enclosed, humid spaces.
+69. **What should families with infants pay attention to when mopping?**
+- Use only clean water—avoid adding cleaning solutions that may leave residues. After mopping, wipe the floor again with a dry cloth to ensure no standing water or cleaner residue remains. Allow the floor to dry completely before letting the infant play on it.
+70. **How to use a vacuum-and-mop robot in a multi-level home?**
+- Create separate maps for each floor and configure dedicated cleaning settings. Manually carry the robot to the target floor before starting cleaning to avoid cross-floor autonomous operation, which may cause mopping system malfunctions.
+71. **How to prevent the robot from contacting water puddles near a washing machine on the balcony?**
+- Set a 'no-mop zone' around the washing machine and remove any standing water or moisture from the balcony floor to ensure the robot operates only on dry surfaces.
+72. **How to prevent pet hair from tangling in the mop pad in heavy-shedding households?**
+- First run a high-suction cleaning cycle to thoroughly remove loose hair, then proceed with mopping. Use anti-tangle mop pads and clean hair off the pad immediately after each mopping session.
+73. **How to set up automatic cleaning while away on a long trip?**
+- Schedule 'automatic vacuuming and mopping' in the app, selecting appropriate water flow and suction levels. Ensure the water tank is full and the dustbin is empty, and enable the 'auto-return-to-charge after completion' feature.
+74. **Can a vacuum-and-mop robot be used for post-renovation deep cleaning?**
+- Not recommended. Post-renovation floors often contain cement dust, sand, and sharp debris that can scratch the robot and flooring, clog filters, or jam internal components. Perform manual deep cleaning first before using the robot.
+75. **How to quickly clean snack crumbs that have fallen from tables or window sills onto the floor?**
+- Enable the "Spot Clean" mode, position the robot over the spill area, and set high suction power with medium water flow to quickly clean up snack crumbs and stains.
+76. **How can I make the robot avoid light and small obstacles like slippers and toys?**
+- Enable the "Advanced Obstacle Avoidance" feature, store away light and small obstacles, or set up "virtual walls" around them to prevent the robot from colliding and causing abnormal mopping behavior.
+77. **There’s a non-slip mat at the bathroom entrance—how should the robot handle mopping there?**
+- Set a "No-Mop Zone" over the non-slip mat so the robot only vacuums it without mopping, preventing the mat from absorbing water and becoming moldy or breeding bacteria.
+78. **How do I clean watermelon juice or ice cream stains on the floor in summer?**
+- Immediately use the spot clean mode, add fresh water with a small amount of fruit-and-vegetable cleaner, and after mopping, run a dry-mop mode to absorb residual moisture, preventing the stain from drying and becoming hard to remove.
+79. **My study has a carpet and a desk—how can I achieve precise vacuuming and mopping?**
+- Set a "No-Mop Zone" for the carpet and enable "Spot Clean" around the desk with reduced water flow to avoid water damage to books and the carpet.
+80. **Dust levels are high in my neighborhood—how can I reduce the frequency of mopping?**
+- Keep windows and doors closed to minimize dust entry, and in the app, configure a combined mode of "High Suction + Medium Water Flow" to achieve deep cleaning in one go, allowing you to appropriately reduce cleaning frequency.
+
+### Software and Feature Settings
+81. **How do I save and delete mopping maps in the app?**
+- After mapping is complete, the robot automatically saves the map; you can manually save multiple maps in the app under [Map Management]. To delete a map, select it and tap "Delete"—you can rebuild the map afterward.
+82. **How can I share my vacuum-and-mop settings with family members?**
+- In the app, go to [Device Sharing] and invite family members via phone number or QR code. They can view and use your saved settings and also make minor adjustments themselves.
+83. **How do I view and delete the robot’s cleaning records?**
+- In the app under [Cleaning Records], you can view the area covered, duration, zones cleaned, and cleaning effectiveness for each session. Long-press a single record to delete it, or choose "Batch Delete."
+84. **How do I schedule vacuum-and-mop tasks?**
+- In the app under [Scheduled Cleaning], add a new task, select the cleaning mode, water flow level, suction power, and cleaning zones, then set the specific time and recurrence frequency. Once saved, the robot will operate accordingly.
+85. **How do I turn off mopping-related notifications from the app?**
+- In the app, go to [Settings] > [Notification Alerts] and disable unnecessary alerts such as "Low Water," "Replace Consumables," and "Cleaning Complete."
+86. **Will my vacuum-and-mop settings be lost after a system update?**
+- No, system updates preserve existing settings. If settings appear abnormal, you can restore factory defaults in the app and reconfigure them.
+87. **How can I customize the cleaning path?**
+- On models that support "Custom Path," draw a cleaning route in the app, and the robot will follow that exact path—ideal for targeted, precise cleaning of specific areas.
+88. **Can the robot perform scheduled cleaning tasks when my phone is offline?**
+- Yes, as long as the robot is connected to Wi-Fi and scheduled tasks are already set, it will operate according to the preset parameters even if your phone is offline. You can view the cleaning records in the app once back online.
+89. **How do I reset the vacuum-and-mop mode to default settings?**
+- In the app under [Cleaning Settings], tap "Restore Defaults" to reset all parameters—including suction power, water flow, and cleaning passes—to factory settings, after which you can re-customize them.
+90. **How do I check the remaining lifespan of mopping consumables in the app?**
+- In the app under [Consumables Management], you can view usage time and remaining lifespan for items like mop pads, seals, and filters. The app will send replacement reminders when consumables are nearing expiration.
+
+### After-Sales Service and Upgrades
+91. **Does the warranty for a vacuum-and-mop robot cover the mopping module?**
+- Yes, within the standard warranty period (typically 1–2 years), non-consumable components of the mopping module—such as the motor, water tank, and mop holder—are covered for free repair or replacement if faulty. Consumables like mop pads and seals are not covered.
+92. **After the warranty expires, is mopping system repair expensive?**
+- Repair costs depend on the faulty component: core parts like the mop motor or water pump cost more, while small accessories like filters or clips are less expensive. We recommend using official after-sales service to ensure genuine parts.
+93. **Can older vacuum-and-mop robots be upgraded to support automatic mop lifting?**
+- No, automatic mop lifting requires both hardware and software support. Older models lack the necessary hardware and cannot gain this feature through software updates. Consider upgrading to a newer model that supports it.
+94. **After replacing the mainboard, do I need to reconfigure the vacuum-and-mop settings?**
+- Yes, replacing the mainboard erases the robot’s system and settings. You’ll need to reconnect to Wi-Fi, remap your home, and reconfigure cleaning parameters and schedules.
+95. **How do I find the original accessory model numbers for my vacuum-and-mop robot?**
+- Check the product manual or the model label on the robot’s underside, or enter your robot’s model number in the brand’s official online store or app marketplace to find compatible original accessories.
+96. **Can third-party mop pads be used with original vacuum-and-mop robots?**
+- We recommend using original mop pads. Third-party pads may differ in size or absorbency, reducing mopping performance and potentially damaging the mopping module.
+97. **After 1 year of use, my robot’s mopping performance has declined—what parts should I upgrade?**
+- First replace the mop pad, filter, and main brush, and clean debris and limescale from the mopping module. If performance remains poor, check the motor suction and mop rotation speed, and replace motor components if necessary.
+98. **After moving to a new home, what checks should I perform before reusing my vacuum-and-mop robot?**
+- Check the robot body and mopping module for impact damage, clean the dustbin, filter, mop pad, and sensors, rebuild the map, recalibrate sweeping and mopping parameters, and test whether all functions operate normally.
+99. **Can a vacuum-and-mop robot be sent back to the manufacturer for deep maintenance?**
+- Yes, official brand services generally support sending the unit back for deep maintenance, including full cleaning, consumable replacement, and function calibration. Specific costs and procedures can be confirmed with official customer service.
+100. **How can I determine whether it’s time to replace my vacuum-and-mop robot with a new one?**
+- If the robot has been used for more than 3 years and exhibits severely reduced suction power, frequent mopping module failures, persistent mapping errors, and repair costs exceeding 1/3 of the price of a new unit, it is recommended to replace it with a new model, as newer models offer superior sweeping, mopping performance, and obstacle avoidance.
