@@ -1,4 +1,4 @@
-# SweepWise
+# 🤖 SweepWise
 
 **An AI support assistant for robotic vacuums, powered by tool-calling agents and hybrid retrieval.**
 
@@ -6,7 +6,31 @@ SweepWise brings product knowledge, live weather, and account-linked usage recor
 
 **Core stack:** Python · LangChain · LangGraph · Qwen · Chroma · BM25 · BGE Reranker · FastAPI · React · TypeScript · SQLite
 
-## Features
+## 🧭 Table of contents
+
+- [✨ Features](#features)
+- [🏗️ Architecture](#architecture)
+  - [Agent execution](#agent-execution)
+  - [Retrieval pipeline](#retrieval-pipeline)
+- [🚀 Getting started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [1. Clone and install](#1-clone-and-install)
+  - [2. Get a WeatherAPI key](#2-get-a-weatherapi-key)
+  - [3. Download the BGE reranker from Hugging Face](#3-download-the-bge-reranker-from-hugging-face)
+  - [4. Configure the environment](#4-configure-the-environment)
+  - [5. Build the knowledge indexes](#5-build-the-knowledge-indexes)
+  - [6. Build and run the application](#6-build-and-run-the-application)
+  - [Development mode](#development-mode)
+- [💬 Using SweepWise](#using-sweepwise)
+  - [Knowledge management](#knowledge-management)
+  - [Usage reports](#usage-reports)
+- [⚙️ Configuration reference](#configuration-reference)
+- [📁 Repository layout](#repository-layout)
+- [🛠️ Troubleshooting](#troubleshooting)
+
+<a id="features"></a>
+
+## ✨ Features
 
 - **Agent-driven support:** A LangChain agent backed by LangGraph chooses knowledge, weather, location, and reporting tools across multiple conversation turns.
 - **Hybrid RAG:** BM25 and dense retrieval feed a weighted reciprocal rank fusion stage, followed by local BGE cross-encoder reranking.
@@ -17,7 +41,9 @@ SweepWise brings product knowledge, live weather, and account-linked usage recor
 - **Knowledge management:** Administrators can upload, edit, and delete documents in the browser; other signed-in users have read-only access.
 - **Persistent conversations:** Account authentication, conversation ownership checks, Markdown answers, source references, and tool status events are built into the chat interface.
 
-## Architecture
+<a id="architecture"></a>
+
+## 🏗️ Architecture
 
 ```mermaid
 flowchart TD
@@ -82,7 +108,9 @@ Current defaults in [config/chroma.yml](config/chroma.yml):
 
 There is no automatic fallback to the other language's corpus. If BGE cannot load or inference fails, retrieval falls back to the fused hybrid ranking and returns a warning.
 
-## Getting started
+<a id="getting-started"></a>
+
+## 🚀 Getting started
 
 ### Prerequisites
 
@@ -112,15 +140,38 @@ Set-Location ..
 
 If PowerShell blocks `npm.ps1`, use `npm.cmd` in place of `npm`. If the Python launcher is unavailable, use your Python 3.12 executable in place of `py -3.12`.
 
-### 2. Download the BGE reranker
+### 2. Get a WeatherAPI key
 
-**Model weights are not included in this repository and are not downloaded automatically.**
+SweepWise uses WeatherAPI's current-weather and location-search endpoints. Create your own key:
 
-**Dropbox download:** [bge-reranker-v2-m3.zip — link pending](https://www.dropbox.com/REPLACE_WITH_BGE_RERANKER_DOWNLOAD_LINK)
+1. [Register for WeatherAPI](https://www.weatherapi.com/signup.aspx).
+2. Sign in to the [account dashboard](https://www.weatherapi.com/my/) and copy your API key.
+3. In the repository root's `.env` file, set `WEATHERAPI_API_KEY=YOUR_WEATHERAPI_KEY`. Step 4 below explains how to create that file.
+4. Restart the backend after saving the configuration.
 
-> This URL is a placeholder. The maintainer must replace it with the shared Dropbox download link before the model archive can be downloaded from this README. Until then, a checkout can run hybrid retrieval without the BGE reranking stage.
+WeatherAPI offers a free plan; consult the [current plans and quotas](https://www.weatherapi.com/pricing.aspx) before deployment. The [official API documentation](https://www.weatherapi.com/docs/) explains authentication and the `/current.json` and `/search.json` endpoints used by this application.
 
-Once the archive is available, extract the complete model folder outside the Git repository. For example:
+After starting SweepWise, ask "What is the weather in Sydney, Australia?" to check the integration. A missing or invalid key prevents weather lookups; product knowledge retrieval does not require a WeatherAPI key. Keep the key in the backend `.env`, not in React source files or a `VITE_` variable.
+
+### 3. Download the BGE reranker from Hugging Face
+
+**Model weights are not included in this repository. Download them separately from BAAI's public model repository:**
+
+- [BAAI/bge-reranker-v2-m3 — official model page](https://huggingface.co/BAAI/bge-reranker-v2-m3)
+- [Browse and download the model files](https://huggingface.co/BAAI/bge-reranker-v2-m3/tree/main)
+
+Download **`bge-reranker-v2-m3`**, not `bge-m3`: the latter is an embedding model, not the reranker configured here. The file listing currently totals approximately **2.29 GB**; allow additional free space for download caching and runtime memory.
+
+From the repository root, use the Python environment created in step 1:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install huggingface_hub
+.\.venv\Scripts\python.exe -c "from huggingface_hub import snapshot_download; snapshot_download(repo_id='BAAI/bge-reranker-v2-m3', local_dir='../models/bge-reranker-v2-m3')"
+```
+
+This uses Hugging Face's documented [`snapshot_download`](https://huggingface.co/docs/huggingface_hub/guides/download) function to download the complete repository into a local folder. The download requires network access to Hugging Face. If interrupted, rerun the same command; the downloader can reuse files that are already up to date.
+
+The resulting layout is:
 
 ```text
 workspace/
@@ -133,12 +184,19 @@ workspace/
         ├── config.json
         ├── model.safetensors
         ├── tokenizer.json
-        └── ...additional tokenizer and model files
+        ├── tokenizer_config.json
+        ├── special_tokens_map.json
+        ├── sentencepiece.bpe.model
+        └── ...additional repository files
 ```
 
-Preserve all files from the archive. `RERANKER_MODEL_PATH` must point to the extracted directory containing `config.json`, not to the ZIP file or an extra enclosing folder. Keeping weights outside the repository also prevents accidental inclusion in a Git commit.
+Alternatively, download the six model/configuration/tokenizer files shown above from the files page into the same folder. Download the actual weight file, not a saved HTML page or a Git large-file pointer.
 
-### 3. Configure the environment
+Set `RERANKER_MODEL_PATH=../models/bge-reranker-v2-m3` in the repository root's `.env`. This is a **local folder path**, not a Hugging Face URL or model identifier. It must point to the directory containing `config.json`. Keeping weights outside the repository prevents accidental inclusion in a Git commit.
+
+The application loads this model with `local_files_only=True`: it will not fetch missing weights at startup. After downloading and configuring the path, restart the backend. If the model is absent or cannot load, the application uses hybrid retrieval without BGE reranking and returns a warning.
+
+### 4. Configure the environment
 
 Create a local configuration file without overwriting an existing one:
 
@@ -167,7 +225,7 @@ Set `RERANKER_MODEL_PATH` explicitly: the code's existing fallback points to a s
 
 Existing process environment variables take precedence over `.env`. Restart the backend after changing configuration. Keep real credentials out of tracked files.
 
-### 4. Build the knowledge indexes
+### 5. Build the knowledge indexes
 
 ```powershell
 .\.venv\Scripts\python.exe -m rag.vector_store --language all
@@ -179,7 +237,7 @@ Inspect the printed summary: `failed` should be empty for each selected language
 
 Imports compare expected chunk IDs with the actual collection. Repeating the command skips complete documents, repairs missing chunks, and replaces obsolete chunks for updated files. Removing a file manually does not remove its stored vectors; use the knowledge management page for deletions.
 
-### 5. Build and run the application
+### 6. Build and run the application
 
 ```powershell
 Set-Location frontend
@@ -208,6 +266,8 @@ Use the same configuration and model folder layout. After cloning the repository
 cd SweepWise
 python3.12 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m pip install huggingface_hub
+.venv/bin/python -c "from huggingface_hub import snapshot_download; snapshot_download(repo_id='BAAI/bge-reranker-v2-m3', local_dir='../models/bge-reranker-v2-m3')"
 test -f .env || cp .env.example .env
 ```
 
@@ -240,7 +300,9 @@ npm run dev
 
 Open the address printed by Vite, normally **http://127.0.0.1:5173**. Its development server forwards `/api` requests to the backend. If Vite uses a different port, add that origin to `FRONTEND_ORIGINS` and restart the backend.
 
-## Using SweepWise
+<a id="using-sweepwise"></a>
+
+## 💬 Using SweepWise
 
 Try these prompts with the English interface selected:
 
@@ -272,7 +334,9 @@ Records are loaded from `data/external/records.csv`, configured by `external_dat
 
 An explicit report month selects that month; an unspecified month uses the latest available month for the assigned records. Requests for unavailable months return the available choices. Expressions such as "October last year" are resolved against the server's current date, so keep the server clock and timezone correct.
 
-## Configuration reference
+<a id="configuration-reference"></a>
+
+## ⚙️ Configuration reference
 
 | Variable | Purpose |
 | --- | --- |
@@ -289,7 +353,9 @@ An explicit report month selects that month; an unspecified month uses the lates
 
 Retrieval settings are in [config/chroma.yml](config/chroma.yml), model defaults in [config/rag.yml](config/rag.yml), and agent instructions in [prompts/](prompts/). Changing the embedding model requires rebuilding vectors in a compatible fresh index; existing embeddings are not automatically migrated.
 
-## Repository layout
+<a id="repository-layout"></a>
+
+## 📁 Repository layout
 
 ```text
 SweepWise/
@@ -315,11 +381,13 @@ The `model/` directory contains application code, not the BGE weight files. The 
 
 Local runtime directories such as `storage/`, `chroma_db/`, and `logs/`, along with dependencies, build output, test files, and evaluation artifacts, are excluded from the Git upload. Build the frontend and initialize the indexes after cloning.
 
-## Troubleshooting
+<a id="troubleshooting"></a>
+
+## 🛠️ Troubleshooting
 
 | Symptom | What to check |
 | --- | --- |
-| BGE unavailable warning | Confirm that the Dropbox archive has been supplied, extracted completely, and referenced by `RERANKER_MODEL_PATH`. Hybrid retrieval remains available without reranking. |
+| BGE unavailable warning | Download the complete BAAI model from Hugging Face, point `RERANKER_MODEL_PATH` at the local folder containing `config.json`, and restart the backend. Hybrid retrieval remains available without reranking. |
 | Knowledge answer has no references | Import the corpus for the selected interface language and inspect the import summary for failed files. |
 | Login works but chat fails | Verify DashScope credentials, model access, and account status; inspect backend logs. |
 | Weather is unavailable | Check `WEATHERAPI_API_KEY`; provide a city and country if browser location is unavailable. |
@@ -327,11 +395,3 @@ Local runtime directories such as `storage/`, `chroma_db/`, and `logs/`, along w
 | Login/session errors | Use a consistent browser hostname, check `FRONTEND_ORIGINS`, and keep `COOKIE_SECURE=false` for local HTTP. |
 | Report has no records | Check the account's dataset assignment and available months; the current calendar month may not exist in the CSV. |
 | `No module named uvicorn` | Install `requirements.txt` using the same virtual-environment Python used to launch the backend. |
-
-## Running beyond localhost
-
-The application persists accounts and conversations in SQLite and stores knowledge vectors in local Chroma directories. Preserve `data/`, `storage/`, and `chroma_db/` when moving an installation; stop writers before taking a simple filesystem backup.
-
-For an HTTPS deployment, configure the public origin, secure cookies, and a reverse proxy that supports SSE without response buffering. Use an explicit administrator list before opening registration. Run without `--reload` outside development.
-
-Stopping a response closes the client stream, but an in-flight synchronous model request may continue until the provider returns. This repository does not include a Docker deployment configuration or a distributed inference service.
