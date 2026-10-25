@@ -372,7 +372,6 @@ SweepWise/
 │   ├── zh/                # Chinese knowledge documents
 │   └── external/          # Usage records
 ├── app.py                 # FastAPI launcher
-├── app_streamlit.py       # Alternative Streamlit entry point
 ├── .env.example           # Environment configuration template
 └── requirements.txt       # Python dependencies
 ```
